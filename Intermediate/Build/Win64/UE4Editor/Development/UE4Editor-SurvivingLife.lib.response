@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SurvivingLife.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLife.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifeCharacter.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifeGameMode.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifePlayerController.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLife.init.gen.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifeCharacter.gen.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifeGameMode.gen.cpp.obj"
+"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\SurvivingLifePlayerController.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\SurvivingLife\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SurvivingLife.lib"

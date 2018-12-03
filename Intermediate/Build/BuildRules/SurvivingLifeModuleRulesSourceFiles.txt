@@ -1,0 +1,3 @@
+C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Source\SurvivingLife\SurvivingLife.Build.cs
+C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Source\SurvivingLife.Target.cs
+C:\Users\Felipe Delgado\Documents\Unreal Projects\SurvivingLife\Source\SurvivingLifeEditor.Target.cs

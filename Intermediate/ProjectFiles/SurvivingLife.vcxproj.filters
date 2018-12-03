@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SurvivingLife.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FC6A5193-015A-43FB-A12D-EC62210DC8E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SurvivingLife.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SurvivingLifeEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D9A4F8ED-5A84-40D3-B341-D41D715201D6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SurvivingLife">
+			<UniqueIdentifier>{0BD0296A-43BE-4763-B094-27166612D07F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SurvivingLife\SurvivingLife.Build.cs">
+			<Filter>Source\SurvivingLife</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SurvivingLife\SurvivingLife.cpp">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivingLife\SurvivingLife.h">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SurvivingLife\SurvivingLifeCharacter.cpp">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivingLife\SurvivingLifeCharacter.h">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SurvivingLife\SurvivingLifeGameMode.cpp">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivingLife\SurvivingLifeGameMode.h">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SurvivingLife\SurvivingLifePlayerController.cpp">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivingLife\SurvivingLifePlayerController.h">
+			<Filter>Source\SurvivingLife</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
