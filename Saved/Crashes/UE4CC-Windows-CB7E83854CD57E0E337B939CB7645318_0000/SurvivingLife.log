@@ -1,0 +1,1061 @@
+﻿Log file open, 10/30/18 15:28:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SurvivingLife
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1292259710) SRandInit(1292259710).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181633
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.214s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Binaries/Win64/UE4Editor-SurvivingLife.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SP4B9R1 (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.30-18.28.23:481][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.30-18.28.23:481][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.30-18.28.23:522][  0]LogInit: Computer: DESKTOP-SP4B9R1
+[2018.10.30-18.28.23:522][  0]LogInit: User: FelipeDelgado
+[2018.10.30-18.28.23:522][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.30-18.28.23:522][  0]LogInit: High frequency timer resolution =2.340360 MHz
+[2018.10.30-18.28.23:522][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.30-18.28.23:522][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.30-18.28.23:522][  0]LogMemory: Process Physical Memory: 274.10 MB used, 274.10 MB peak
+[2018.10.30-18.28.23:522][  0]LogMemory: Process Virtual Memory: 270.36 MB used, 270.36 MB peak
+[2018.10.30-18.28.23:522][  0]LogMemory: Physical Memory: 3775.65 MB used,  4315.72 MB free, 8091.37 MB total
+[2018.10.30-18.28.23:522][  0]LogMemory: Virtual Memory: 4782.30 MB used,  4315.72 MB free, 134217728.00 MB total
+[2018.10.30-18.28.23:566][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2018.10.30-18.28.23:566][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2018.10.30-18.28.23:572][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.30-18.28.24:185][  0]LogStreaming: Display: Took  0.619s to EndInitTextLocalization.
+[2018.10.30-18.28.24:185][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.30-18.28.24:225][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.30-18.28.24:225][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.30-18.28.24:563][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.30-18.28.24:601][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.10.30-18.28.24:601][  0]LogD3D11RHI:       2019/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.30-18.28.24:609][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.10.30-18.28.24:609][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.30-18.28.24:612][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.30-18.28.24:613][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.30-18.28.24:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.30-18.28.24:645][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.30-18.28.24:645][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.30-18.28.24:645][  0]LogWindows: EnumDisplayDevices:
+[2018.10.30-18.28.24:645][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.10.30-18.28.24:646][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.30-18.28.24:646][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.30-18.28.24:647][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.30-18.28.24:647][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.10.30-18.28.24:647][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.30-18.28.24:647][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.30-18.28.24:647][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.10.30-18.28.24:670][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.30-18.28.24:670][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.30-18.28.24:670][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.30-18.28.24:685][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.30-18.28.24:687][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Intermediate/Shaders/WorkingDirectory/7076/).
+[2018.10.30-18.28.24:687][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe Delgado/AppData/Local/Temp/UnrealShaderWorkingDir/0F59F4474DFCA610156458B4F82CA841/'.
+[2018.10.30-18.28.25:266][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.30-18.28.25:288][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.30-18.28.25:310][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.30-18.28.25:333][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.30-18.28.25:355][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.30-18.28.25:375][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.30-18.28.25:395][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.30-18.28.25:416][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.30-18.28.25:428][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.30-18.28.25:445][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.30-18.28.25:463][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.30-18.28.25:479][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.30-18.28.25:496][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.30-18.28.25:513][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.30-18.28.25:530][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.30-18.28.25:563][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.30-18.28.25:563][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.30-18.28.25:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-18.28.25:583][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.30-18.28.25:628][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.30-18.28.25:643][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.30-18.28.25:661][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.30-18.28.25:677][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.30-18.28.25:694][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.30-18.28.25:710][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.30-18.28.25:710][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.30-18.28.25:935][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.30-18.28.25:935][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.30-18.28.25:935][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.30-18.28.26:970][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: Loaded boot cache 0.14s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.30-18.28.27:110][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.30-18.28.27:132][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.30-18.28.27:144][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.30-18.28.27:144][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.30-18.28.27:144][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.30-18.28.27:160][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.30-18.28.27:160][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.30-18.28.27:161][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.30-18.28.27:161][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.30-18.28.27:357][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.10.30-18.28.27:810][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.30-18.28.28:034][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.30-18.28.28:040][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.30-18.28.28:040][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.30-18.28.28:040][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.30-18.28.28:040][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.30-18.28.28:040][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.30-18.28.28:097][  0]LogNetVersion: SurvivingLife , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2489833211)
+[2018.10.30-18.28.28:925][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.196173 seconds
+[2018.10.30-18.28.28:932][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.30-18.28.28:932][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.10.30-18.28.28:932][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.30-18.28.31:722][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.30-18.28.31:773][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.30-18.28.32:210][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/M_Cursor_Decal'
+[2018.10.30-18.28.32:210][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/M_Cursor_Decal'
+[2018.10.30-18.28.32:210][  0]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+[2018.10.30-18.28.32:210][  0]Error: CDO Constructor (SurvivingLifeCharacter): Failed to find Material'/Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.10.30-18.28.32:210][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/TopDownCharacter'
+[2018.10.30-18.28.32:210][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/TopDownCharacter'
+[2018.10.30-18.28.32:211][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C'
+[2018.10.30-18.28.32:211][  0]Error: CDO Constructor (SurvivingLifeGameMode): Failed to find /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+
+[2018.10.30-18.28.32:211][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.10.30-18.28.32:211][  0]LogUObjectBase: Warning: Error: CDO Constructor (SurvivingLifeCharacter): Failed to find Material'/Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.10.30-18.28.32:211][  0]LogUObjectBase: Warning: Error: CDO Constructor (SurvivingLifeGameMode): Failed to find /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+
+[2018.10.30-18.28.34:214][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.30-18.28.34:528][  0]SourceControl: Source control is disabled
+[2018.10.30-18.28.34:528][  0]SourceControl: Source control is disabled
+[2018.10.30-18.28.34:566][  0]SourceControl: Source control is disabled
+[2018.10.30-18.28.34:605][  0]SourceControl: Source control is disabled
+[2018.10.30-18.28.35:539][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.30-18.28.36:014][  0]LogOcInput: OculusInput pre-init called
+[2018.10.30-18.28.36:264][  0]LogEngine: Initializing Engine...
+[2018.10.30-18.28.36:266][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.30-18.28.36:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.30-18.28.36:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.30-18.28.36:697][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.30-18.28.36:752][  0]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.30-18.28.36:777][  0]LogInit: FAudioDevice initialized.
+[2018.10.30-18.28.37:043][  0]LogDerivedDataCache: Saved boot cache 0.27s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.30-18.28.37:058][  0]LogInit: Texture streaming: Enabled
+[2018.10.30-18.28.37:097][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.30-18.28.37:139][  0]LogInit: Transaction tracking system initialized
+[2018.10.30-18.28.37:207][  0]BlueprintLog: New page: Editor Load
+[2018.10.30-18.28.37:471][  0]LocalizationService: Localization service is disabled
+[2018.10.30-18.28.37:704][  0]LogConsoleResponse: Display: 
+[2018.10.30-18.28.38:333][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.30-18.28.38:334][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.30-18.28.38:334][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.30-18.28.38:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.30-18.28.38:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.30-18.28.38:780][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/' took 0.09s
+[2018.10.30-18.28.39:318][  0]SourceControl: Source control is disabled
+[2018.10.30-18.28.39:319][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-18.28.39:319][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2018.10.30-18.28.39:319][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-18.28.39:423][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.378ms to complete.
+[2018.10.30-18.28.39:423][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.105
+[2018.10.30-18.28.39:487][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.30-18.28.39:679][  0]LogCollectionManager: Loaded 0 collections in 0.004453 seconds
+[2018.10.30-18.28.39:726][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Collections/' took 0.01s
+[2018.10.30-18.28.39:726][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Developers/FelipeDelgado/Collections/' took 0.01s
+[2018.10.30-18.28.39:726][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Collections/' took 0.01s
+[2018.10.30-18.28.39:726][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.30-18.28.39:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2455 classes and 560 folders.
+[2018.10.30-18.28.39:758][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.10.30-18.28.41:354][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.10.30-18.28.41:365][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0028 seconds. Added 1 classes and 2 folders.
+[2018.10.30-18.28.41:476][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.30-18.28.41:481][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.30-18.28.41:630][  0]LogSlate: Took 0.134656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.30-18.28.41:853][  0]LogRenderer: Reallocating scene render targets to support 908x436 Format 10 NumSamples 1 (Frame:1).
+[2018.10.30-18.28.42:072][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.10.30-18.28.42:072][  0]LogLoad: (Engine Initialization) Total time: 24.76 seconds
+[2018.10.30-18.28.42:072][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.30-18.28.42:120][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.30-18.28.42:239][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/' took 0.14s
+[2018.10.30-18.28.42:479][  2]LogSlate: Took 0.010012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.30-18.28.42:677][  3]LogAssetRegistry: Asset discovery search completed in 15.3427 seconds
+[2018.10.30-18.28.42:684][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.30-18.28.42:684][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000314 seconds (updated 0 objects)
+[2018.10.30-18.28.43:858][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.30.57:829][755]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.30-18.30.57:917][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943c68d848, Size=4, Default__BPInventoryComponent_C Function /Game/Blueprints/Components/BPInventoryComponent.BPInventoryComponent_C:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.30.57:932][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943c68d848, Size=4
+[2018.10.30-18.30.57:932][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943c68d848, Size=4, Default__BPInventoryComponent_C Function /Engine/Transient.REINST_BPInventoryComponent_C_9:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.30.57:949][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943c68eaa8, Size=4, Default__BPInventoryComponent_C Function /Game/Blueprints/Components/BPInventoryComponent.BPInventoryComponent_C:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.30.58:280][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194621d64c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.30-18.30.58:294][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194621d64c0, Size=64
+[2018.10.30-18.30.58:294][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194621d6500, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.30-18.30.58:303][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194620efc40, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.30-18.30.58:318][755]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019462127400, Size=696, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.30-18.30.58:992][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194318e9588, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.30-18.30.58:996][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194318e9578, Size=4, Default__UI_GameHUD_C Function /Game/UI/UI_GameHUD.UI_GameHUD_C:ExecuteUbergraph_UI_GameHUD
+[2018.10.30-18.30.59:263][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194318e92f0, Size=8, Default__Widget_DragDropImage_C Function /Game/UI/Widgets/Widget_DragDropImage.Widget_DragDropImage_C:ExecuteUbergraph_Widget_DragDropImage
+[2018.10.30-18.30.59:270][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943fa26480, Size=304, Default__Widget_InventorySlot_C Function /Game/UI/Widgets/Widget_InventorySlot.Widget_InventorySlot_C:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-18.30.59:285][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194318e9168, Size=8, Default__UI_ICELayout_C Function /Game/UI/UI_ICELayout.UI_ICELayout_C:ExecuteUbergraph_UI_ICELayout
+[2018.10.30-18.30.59:444][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194318e9588, Size=8
+[2018.10.30-18.30.59:444][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943cc68e98, Size=8, Default__WeatherManager_C Function /Engine/Transient.REINST_WeatherManager_C_15:ExecuteUbergraph_WeatherManager
+[2018.10.30-18.30.59:446][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019462127400, Size=696
+[2018.10.30-18.30.59:446][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943cb92800, Size=696, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_16:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.30-18.30.59:447][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194318e9578, Size=4
+[2018.10.30-18.30.59:447][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943cc68e80, Size=4, Default__UI_GameHUD_C Function /Engine/Transient.REINST_UI_GameHUD_C_1:ExecuteUbergraph_UI_GameHUD
+[2018.10.30-18.30.59:447][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194318e9168, Size=8
+[2018.10.30-18.30.59:447][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943cc68e88, Size=8, Default__UI_ICELayout_C Function /Engine/Transient.REINST_UI_ICELayout_C_2:ExecuteUbergraph_UI_ICELayout
+[2018.10.30-18.30.59:448][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194318e92f0, Size=8
+[2018.10.30-18.30.59:448][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943cc68e78, Size=8, Default__Widget_DragDropImage_C Function /Engine/Transient.REINST_Widget_DragDropImage_C_3:ExecuteUbergraph_Widget_DragDropImage
+[2018.10.30-18.30.59:449][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943fa26480, Size=304
+[2018.10.30-18.30.59:449][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001943ca974c0, Size=304, Default__Widget_InventorySlot_C Function /Engine/Transient.REINST_Widget_InventorySlot_C_4:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-18.30.59:547][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cf2eea0, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.30-18.30.59:556][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cb37a00, Size=696, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.30-18.30.59:563][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cf2c540, Size=4, Default__UI_GameHUD_C Function /Game/UI/UI_GameHUD.UI_GameHUD_C:ExecuteUbergraph_UI_GameHUD
+[2018.10.30-18.30.59:566][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cf2c518, Size=8, Default__UI_ICELayout_C Function /Game/UI/UI_ICELayout.UI_ICELayout_C:ExecuteUbergraph_UI_ICELayout
+[2018.10.30-18.30.59:567][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cf2c4e0, Size=8, Default__Widget_DragDropImage_C Function /Game/UI/Widgets/Widget_DragDropImage.Widget_DragDropImage_C:ExecuteUbergraph_Widget_DragDropImage
+[2018.10.30-18.30.59:569][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cc67600, Size=304, Default__Widget_InventorySlot_C Function /Game/UI/Widgets/Widget_InventorySlot.Widget_InventorySlot_C:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-18.30.59:655][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cb267d0, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.30.59:658][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001944cb267d0, Size=24
+[2018.10.30-18.30.59:658][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cb267d0, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_29:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.30.59:661][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000001944cb279e8, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.31.00:268][755]LogSkeletalMesh: Skeletal Mesh found in DDC [41.687176ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:GetInventoryItemInfo.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:GetItemInfo.K2Node_FunctionEntry_4' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:CanStack?.K2Node_FunctionEntry_5' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:GetMaxStackAmount.K2Node_FunctionEntry_6' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:GetRoomOnStack.K2Node_FunctionEntry_7' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:OnUse.K2Node_FunctionEntry_8' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:OnDrop.K2Node_FunctionEntry_9' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:GetAmount.K2Node_FunctionEntry_10' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem:SetAmount.K2Node_FunctionEntry_11' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.SKEL_BP_InventoryItem_C:Amount' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.SKEL_BP_InventoryItem_C:RowName' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.SKEL_BP_InventoryItem_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem_C:Amount' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:477][755]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_InventoryItem.BP_InventoryItem_C:RowName' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem.PackageMetaData'
+[2018.10.30-18.31.00:620][755]LogSavePackage: Save=63.89ms
+[2018.10.30-18.31.00:620][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InventoryItemF0A3ADDB4FF41C86B5D4C0BA0A5960C9.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_InventoryItem.uasset'
+[2018.10.30-18.31.00:628][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_InventoryItem.uasset
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943c68d848, Size=4
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194621d6500, Size=64
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943cb92800, Size=696
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943cc68e98, Size=8
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943cc68e80, Size=4
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943cc68e78, Size=8
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943ca974c0, Size=304
+[2018.10.30-18.31.00:726][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943cc68e88, Size=8
+[2018.10.30-18.31.00:727][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001944cb267d0, Size=24
+[2018.10.30-18.31.00:788][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MySaveGame" FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/MySaveGame.uasset" SILENT=true
+[2018.10.30-18.31.00:894][755]LogSavePackage: Save=9.75ms
+[2018.10.30-18.31.00:894][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/MySaveGameE2C1B3954D7F49CFF5AFBFA05A5125AC.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/MySaveGame.uasset'
+[2018.10.30-18.31.00:900][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/MySaveGame.uasset
+[2018.10.30-18.31.01:091][755]LogSavePackage: Save=112.60ms
+[2018.10.30-18.31.01:091][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPInventoryComponentE06E84364C450D11D2F8DDB0E6F09D44.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Components/BPInventoryComponent.uasset'
+[2018.10.30-18.31.01:096][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Components/BPInventoryComponent.uasset
+[2018.10.30-18.31.01:437][755]LogSavePackage: Save=33.36ms
+[2018.10.30-18.31.01:437][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem6000F35E4258BC8EEC6F12B472024A60.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem.uasset'
+[2018.10.30-18.31.01:443][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem.uasset
+[2018.10.30-18.31.01:530][755]LogSavePackage: Save=9.68ms
+[2018.10.30-18.31.01:531][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_AppleE6B534584535504C98C1488AF1C4350C.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Apple.uasset'
+[2018.10.30-18.31.01:537][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Apple.uasset
+[2018.10.30-18.31.01:630][755]LogSavePackage: Save=8.51ms
+[2018.10.30-18.31.01:630][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_Axe90230CFA4273C412110A29AF22139F04.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Axe.uasset'
+[2018.10.30-18.31.01:635][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Axe.uasset
+[2018.10.30-18.31.01:718][755]LogSavePackage: Save=9.28ms
+[2018.10.30-18.31.01:718][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InventoryItem_Nails20A4BC3E412CF1ACCB6F7BAE87BF8675.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InventoryItem_Nails.uasset'
+[2018.10.30-18.31.01:724][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InventoryItem_Nails.uasset
+[2018.10.30-18.31.01:821][755]LogSavePackage: Save=16.54ms
+[2018.10.30-18.31.01:821][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvItem_EmptyED2CDF2E49A9F286474378BEA5F2318E.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.uasset'
+[2018.10.30-18.31.01:826][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.uasset
+[2018.10.30-18.31.01:831][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryPanel" FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/UI/UI_InventoryPanel.uasset" SILENT=true
+[2018.10.30-18.31.01:960][755]LogSavePackage: Save=49.16ms
+[2018.10.30-18.31.01:960][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/UI_InventoryPanelC3D62EC34DA0D5B0E6AF6FA5CAEA5ADE.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/UI/UI_InventoryPanel.uasset'
+[2018.10.30-18.31.01:966][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/UI/UI_InventoryPanel.uasset
+[2018.10.30-18.31.02:132][755]LogSavePackage: Save=87.65ms
+[2018.10.30-18.31.02:132][755]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Widget_InventorySlotB0924B6349E9907806FE1EAFB5734751.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/UI/Widgets/Widget_InventorySlot.uasset'
+[2018.10.30-18.31.02:137][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/UI/Widgets/Widget_InventorySlot.uasset
+[2018.10.30-18.31.16:667][360]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.10.30-18.31.17:239][360]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946c766a00, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.30-18.31.17:239][360]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946c7669f8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.30-18.31.18:162][360]LogSlate: Took 0.027161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.30-18.31.18:382][361]LogSlate: Took 0.012251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.30-18.31.21:501][541]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.31.21:510][541]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001944cb279e8, Size=24
+[2018.10.30-18.31.21:510][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019472631df8, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_47:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.31.21:512][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019472632398, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.31.38:561][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946f8411e0, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.31.43:476][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:476][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:StaticMesh' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ItemClass' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:AmountToAdd' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:StaticMesh' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ItemClass' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:AmountToAdd' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:477][529]LogMetaData: Removing '/Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem.PackageMetaData'
+[2018.10.30-18.31.43:566][529]LogSavePackage: Save=35.69ms
+[2018.10.30-18.31.43:566][529]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItemAD209BEA404183F1C4E5F19FAAB0C2AC.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.31.43:571][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.31.43:640][529]LogSavePackage: Save=5.85ms
+[2018.10.30-18.31.43:640][529]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem6779D1E9403D6E23C16F82813E44DC55.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem.uasset'
+[2018.10.30-18.31.43:644][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem.uasset
+[2018.10.30-18.31.52:191][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946e963e50, Size=4, Default__SurvivingLifeGameMode_C Function /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.30-18.31.52:193][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946e963e50, Size=4
+[2018.10.30-18.31.52:193][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946e963e50, Size=4, Default__SurvivingLifeGameMode_C Function /Engine/Transient.REINST_SurvivingLifeGameMode_C_53:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.30-18.31.52:194][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946e963f78, Size=4, Default__SurvivingLifeGameMode_C Function /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.30-18.31.54:947][970]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.30-18.31.58:600][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946e963e50, Size=4
+[2018.10.30-18.31.58:602][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019472631df8, Size=24
+[2018.10.30-18.31.59:155][970]LogSavePackage: Save=471.94ms
+[2018.10.30-18.31.59:156][970]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMapF91F1ADE48DC6478AFC31896E7D3A3B9.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap'
+[2018.10.30-18.31.59:165][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap
+[2018.10.30-18.31.59:176][970]LogFileHelpers: Saving map 'GeneralMap' took 4.057
+[2018.10.30-18.32.38:872][455]LogSlate: Window 'Save Content' being destroyed
+[2018.10.30-18.32.39:026][455]LogSavePackage: Save=46.39ms
+[2018.10.30-18.32.39:026][455]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_AppleFA2F7F0640422C3342411E95D3531148.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Apple.uasset'
+[2018.10.30-18.32.39:034][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Apple.uasset
+[2018.10.30-18.32.39:039][455]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-18.32.39:039][455]LightingResults: New page: Lighting Build
+[2018.10.30-18.32.39:052][455]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0027 seconds. Added 5 classes and 0 folders.
+[2018.10.30-18.32.39:054][455]LoadErrors: New page: Loading map: GeneralMap.umap
+[2018.10.30-18.32.39:054][455]MapCheck: New page: Map Check
+[2018.10.30-18.32.39:054][455]LightingResults: New page: Lighting Build
+[2018.10.30-18.32.39:262][455]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.30-18.32.39:345][455]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-18.32.39:458][455]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 112.931ms to complete.
+[2018.10.30-18.32.39:459][455]LogFileHelpers: Loading map 'GeneralMap' took 0.423
+[2018.10.30-18.32.42:317][595]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem2)
+[2018.10.30-18.32.46:391][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.32.46:451][805]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-18.32.46:483][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.32.46:483][805]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.30-18.32.46:484][805]LogPlayLevel: [PlayLevel] Compiling MySaveGame before play...
+[2018.10.30-18.32.46:492][805]LogPlayLevel: [PlayLevel] Compiling BP_InvItem_Empty before play...
+[2018.10.30-18.32.46:541][805]LogPlayLevel: [PlayLevel] Compiling BPInventoryComponent before play...
+[2018.10.30-18.32.46:571][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001943c68eaa8, Size=4
+[2018.10.30-18.32.46:571][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946e0d5c28, Size=4, Default__BPInventoryComponent_C Function /Engine/Transient.REINST_BPInventoryComponent_C_78:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.32.46:587][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946e0d63e8, Size=4, Default__BPInventoryComponent_C Function /Game/Blueprints/Components/BPInventoryComponent.BPInventoryComponent_C:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.32.46:632][805]LogPlayLevel: [PlayLevel] Compiling Widget_InventorySlot before play...
+[2018.10.30-18.32.46:653][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001944cc67600, Size=304
+[2018.10.30-18.32.46:654][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947d143c40, Size=304, Default__Widget_InventorySlot_C Function /Engine/Transient.REINST_Widget_InventorySlot_C_12:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-18.32.46:662][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947d142d40, Size=304, Default__Widget_InventorySlot_C Function /Game/UI/Widgets/Widget_InventorySlot.Widget_InventorySlot_C:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-18.32.46:681][805]LogPlayLevel: [PlayLevel] Compiling UI_InventoryPanel before play...
+[2018.10.30-18.32.46:812][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946e0d5c28, Size=4
+[2018.10.30-18.32.46:812][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001947d143c40, Size=304
+[2018.10.30-18.32.46:817][805]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (5 blueprints)
+[2018.10.30-18.32.46:870][805]PIE: New page: PIE session: GeneralMap (Oct 30, 2018, 12:32:46 PM)
+[2018.10.30-18.32.46:880][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.30-18.32.46:929][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048631s)
+[2018.10.30-18.32.46:930][805]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.30-18.32.46:930][805]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.10.30-18.32.46:930][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.049991s)
+[2018.10.30-18.32.46:960][805]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.30-18.32.46:972][805]LogInit: FAudioDevice initialized.
+[2018.10.30-18.32.47:025][805]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.30-18.32.47:041][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.30-15.32.47
+[2018.10.30-18.32.47:042][805]LogWorld: Bringing up level for play took: 0.011686
+[2018.10.30-18.32.47:120][805]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0051 seconds. Added 11 classes and 0 folders.
+[2018.10.30-18.32.47:148][805]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap -0.33
+[2018.10.30-18.32.47:149][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.32.47:165][805]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.30-18.32.47:165][805]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.30-18.32.50:852][987]LogBlueprintUserMessages: [BP_WorldItem2] Added Item
+[2018.10.30-18.32.55:208][230]LogBlueprintUserMessages: [BP_WorldItem_44] Added Item
+[2018.10.30-18.32.58:541][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.32.58:582][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.33.00:447][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-18.33.34:058][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.33.36:973][436]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-18.33.48:839][995]Cmd: SELECT NONE
+[2018.10.30-18.33.49:463][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem)
+[2018.10.30-18.33.57:756][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.34.08:047][909]LogRenderer: Reallocating scene render targets to support 912x528 Format 10 NumSamples 1 (Frame:1).
+[2018.10.30-18.34.15:313][168]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.34.15:330][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019472632398, Size=24
+[2018.10.30-18.34.15:330][168]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179c7d8, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_93:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.15:331][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946f8411e0, Size=24
+[2018.10.30-18.34.15:331][168]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179e7e8, Size=24, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_93:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.15:333][168]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179df00, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.15:333][168]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179e530, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.16:432][179]LogSavePackage: Save=27.96ms
+[2018.10.30-18.34.16:432][179]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem75090EEB4A92332125936D93C016B491.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.34.16:437][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.34.17:543][221]LogSlate: Window 'BP_WorldItem' being destroyed
+[2018.10.30-18.34.24:753][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.34.59:292][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.34.59:350][470]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.34.59:367][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179df00, Size=24
+[2018.10.30-18.34.59:367][470]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194593520b0, Size=24, BP_WorldItem_C_43 Function /Engine/Transient.REINST_BP_WorldItem_C_101:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.59:367][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179e530, Size=24
+[2018.10.30-18.34.59:367][470]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019459351f48, Size=24, BP_WorldItem_Apple_C_3 Function /Engine/Transient.REINST_BP_WorldItem_C_101:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.59:369][470]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019459352cb0, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.59:370][470]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194593527d0, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.34.59:891][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179e7e8, Size=24
+[2018.10.30-18.34.59:891][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179c7d8, Size=24
+[2018.10.30-18.35.00:906][490]LogSavePackage: Save=27.73ms
+[2018.10.30-18.35.00:906][490]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem806107D446E664588593A091D7B43BDC.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.35.00:911][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.35.09:891][717]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.35.09:908][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019459352cb0, Size=24
+[2018.10.30-18.35.09:908][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194301a3208, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_109:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.35.09:908][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194593527d0, Size=24
+[2018.10.30-18.35.09:908][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194301a31c0, Size=24, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_109:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.35.09:910][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194301a1678, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.35.09:910][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194301a3d78, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.35.10:431][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019459351f48, Size=24
+[2018.10.30-18.35.11:192][729]LogSavePackage: Save=28.10ms
+[2018.10.30-18.35.11:192][729]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItemE5F8F4A14C09A527A492C29A471BDDF8.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.35.11:196][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.35.11:992][760]LogSlate: Window 'BP_WorldItem' being destroyed
+[2018.10.30-18.35.14:776][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.35.14:837][894]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-18.35.14:877][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.35.14:878][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.30-18.35.14:878][894]PIE: New page: PIE session: GeneralMap (Oct 30, 2018, 12:35:14 PM)
+[2018.10.30-18.35.14:878][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.30-18.35.14:901][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022648s)
+[2018.10.30-18.35.14:901][894]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.30-18.35.14:902][894]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.10.30-18.35.14:902][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.023766s)
+[2018.10.30-18.35.14:922][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194301a31c0, Size=24
+[2018.10.30-18.35.14:922][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194301a3208, Size=24
+[2018.10.30-18.35.14:928][894]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.30-18.35.14:940][894]LogInit: FAudioDevice initialized.
+[2018.10.30-18.35.14:981][894]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.30-18.35.14:985][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.30-15.35.14
+[2018.10.30-18.35.14:985][894]LogWorld: Bringing up level for play took: 0.004140
+[2018.10.30-18.35.14:990][894]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap -0.488
+[2018.10.30-18.35.14:990][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.35.14:990][894]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.30-18.35.14:990][894]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.30-18.35.17:927][ 51]LogBlueprintUserMessages: [BP_WorldItem2] Added Item
+[2018.10.30-18.35.18:742][ 95]LogBlueprintUserMessages: [BP_WorldItem_44] Added Item
+[2018.10.30-18.35.20:778][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.35.20:831][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.35.25:238][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-18.35.30:979][614]LogSlate: Window 'Message Log' being destroyed
+[2018.10.30-18.35.31:005][614]LogSlate: Window 'Message Log' being destroyed
+[2018.10.30-18.35.48:718][ 26]LogSlate: Window 'BP_WorldItem_Apple' being destroyed
+[2018.10.30-18.37.58:325][190]BlueprintLog: New page: Compile BP_WorldItem_Apple
+[2018.10.30-18.37.58:331][190]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194301a3d78, Size=24
+[2018.10.30-18.37.58:331][190]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947c131270, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.37.58:367][190]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947c132050, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.55:262][ 95]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c55318, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.55:263][ 95]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c553c8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.59:705][357]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c55318, Size=4
+[2018.10.30-18.39.59:705][357]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c55318, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_121:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.59:707][357]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54908, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.59:707][357]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c553c8, Size=4
+[2018.10.30-18.39.59:707][357]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c553c8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_121:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.39.59:707][357]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54950, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.00:960][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54908, Size=4
+[2018.10.30-18.40.00:960][429]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54908, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_125:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.00:962][429]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c546b8, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.00:962][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54950, Size=4
+[2018.10.30-18.40.00:962][429]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54950, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_125:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.00:963][429]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54698, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.04:201][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c546b8, Size=4
+[2018.10.30-18.40.04:201][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c546b8, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_129:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.04:203][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c547e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.04:203][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54698, Size=4
+[2018.10.30-18.40.04:203][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54698, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_129:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.04:204][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54b00, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.05:028][665]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c547e0, Size=4
+[2018.10.30-18.40.05:028][665]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c547e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_133:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.05:029][665]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54a88, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.05:029][665]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54b00, Size=4
+[2018.10.30-18.40.05:029][665]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54b00, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_133:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.05:030][665]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019499c54a08, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.16:157][329]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54a88, Size=4
+[2018.10.30-18.40.16:157][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe6668, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_137:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.16:159][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe43e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.16:159][329]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54a08, Size=4
+[2018.10.30-18.40.16:160][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe45d0, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_137:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.16:160][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe45e8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.17:870][423]LogSlate: Took 0.035800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.30-18.40.19:529][522]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe43e0, Size=4
+[2018.10.30-18.40.19:529][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe43e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_141:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.19:530][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe62e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.19:531][522]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe45e8, Size=4
+[2018.10.30-18.40.19:531][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe45e8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_141:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.19:531][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe6310, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.22:956][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe62e0, Size=4
+[2018.10.30-18.40.22:956][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe62e0, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_145:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.22:957][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe7088, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.22:958][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe6310, Size=4
+[2018.10.30-18.40.22:958][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe6310, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_145:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.22:958][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949abe7038, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.34:094][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe7088, Size=4
+[2018.10.30-18.40.34:094][339]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd65ea0, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_149:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.34:096][339]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd64360, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.34:096][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe7038, Size=4
+[2018.10.30-18.40.34:096][339]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd64330, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_149:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.34:097][339]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd64318, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.47:960][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd64360, Size=4
+[2018.10.30-18.40.47:961][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6cf1c0, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_153:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.47:963][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6cefe0, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.47:964][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd64318, Size=4
+[2018.10.30-18.40.47:964][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6ceff0, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_153:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.40.47:964][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6ceef8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:452][ 73]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.41.37:457][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6cefe0, Size=4
+[2018.10.30-18.41.37:457][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e670ca8, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_157:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:457][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6ceef8, Size=4
+[2018.10.30-18.41.37:457][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e670a68, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_157:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:464][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194301a1678, Size=24
+[2018.10.30-18.41.37:464][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c529570, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_161:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:464][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001947c132050, Size=24
+[2018.10.30-18.41.37:464][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c529060, Size=24, BP_WorldItem_Apple_C_58 Function /Engine/Transient.REINST_BP_WorldItem_C_161:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:467][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c529780, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.37:467][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c528f40, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.38:081][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c547e0, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e670a68, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e670ca8, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54698, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c546b8, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6ceff0, Size=4
+[2018.10.30-18.41.38:082][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6cf1c0, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54950, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54908, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd64330, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd65ea0, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe6310, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe62e0, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe45e8, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe43e0, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe45d0, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949abe6668, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c54b00, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c553c8, Size=4
+[2018.10.30-18.41.38:083][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019499c55318, Size=4
+[2018.10.30-18.41.38:105][ 73]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.41.38:116][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c529780, Size=24
+[2018.10.30-18.41.38:116][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91fdd8, Size=24, BP_WorldItem_C_87 Function /Engine/Transient.REINST_BP_WorldItem_C_169:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.38:116][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c528f40, Size=24
+[2018.10.30-18.41.38:116][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91eff8, Size=24, BP_WorldItem_Apple_C_64 Function /Engine/Transient.REINST_BP_WorldItem_C_169:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.38:119][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91cfe8, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.41.38:119][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91c2c8, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.42.47:807][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e5a1a98, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.42.47:809][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e5a1698, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:926][788]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.43.14:933][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e5a1a98, Size=4
+[2018.10.30-18.43.14:933][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6cff38, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_177:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:933][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e5a1698, Size=4
+[2018.10.30-18.43.14:933][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c6cfa20, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_177:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:942][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949a91cfe8, Size=24
+[2018.10.30-18.43.14:942][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c8f4088, Size=24, BP_WorldItem_C_95 Function /Engine/Transient.REINST_BP_WorldItem_C_181:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:943][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949a91c2c8, Size=24
+[2018.10.30-18.43.14:943][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c8f6158, Size=24, BP_WorldItem_Apple_C_72 Function /Engine/Transient.REINST_BP_WorldItem_C_181:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:945][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c8f56d8, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.14:946][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949c8f60e0, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.15:555][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949a91eff8, Size=24
+[2018.10.30-18.43.15:555][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949a91fdd8, Size=24
+[2018.10.30-18.43.15:555][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6cfa20, Size=4
+[2018.10.30-18.43.15:555][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c6cff38, Size=4
+[2018.10.30-18.43.16:836][846]LogSavePackage: Save=33.85ms
+[2018.10.30-18.43.16:836][846]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem9238564245174848DB9B828371B31311.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.43.16:841][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.43.49:741][816]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e670bf8, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.49:742][816]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949e6736d8, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.56:774][235]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e670bf8, Size=4
+[2018.10.30-18.43.56:774][235]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca62870, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_189:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.56:775][235]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca62340, Size=4, Default__SKEL_BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.56:776][235]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949e6736d8, Size=4
+[2018.10.30-18.43.56:776][235]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca633f0, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_189:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.56:776][235]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca63350, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.SKEL_BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:891][359]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.43.58:896][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca62340, Size=4
+[2018.10.30-18.43.58:896][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca62340, Size=4, Default__SKEL_BP_WorldItem_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_193:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:896][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca63350, Size=4
+[2018.10.30-18.43.58:896][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949ca63350, Size=4, Default__SKEL_BP_WorldItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_WorldItem_C_193:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:904][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c8f56d8, Size=24
+[2018.10.30-18.43.58:904][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179ece0, Size=24, BP_WorldItem_C_105 Function /Engine/Transient.REINST_BP_WorldItem_C_197:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:904][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c8f60e0, Size=24
+[2018.10.30-18.43.58:904][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179d600, Size=24, BP_WorldItem_Apple_C_83 Function /Engine/Transient.REINST_BP_WorldItem_C_197:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:906][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179e908, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.58:907][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001945179e830, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca63350, Size=4
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca62340, Size=4
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c8f6158, Size=24
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c8f4088, Size=24
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca633f0, Size=4
+[2018.10.30-18.43.59:514][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949ca62870, Size=4
+[2018.10.30-18.44.12:368][119]BlueprintLog: New page: Compile BP_WorldItem_Apple
+[2018.10.30-18.44.12:371][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179e830, Size=24
+[2018.10.30-18.44.12:371][119]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bf3d180, Size=24, BP_WorldItem_Apple_C_105 Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.44.12:372][119]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bf3d3c0, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.44.12:646][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179d600, Size=24
+[2018.10.30-18.44.12:646][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179ece0, Size=24
+[2018.10.30-18.44.13:682][161]LogSavePackage: Save=21.22ms
+[2018.10.30-18.44.13:682][161]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_Apple1ACBA67746D33AC57E80B4819298A785.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Apple.uasset'
+[2018.10.30-18.44.13:686][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Apple.uasset
+[2018.10.30-18.44.17:438][378]LogSavePackage: Save=32.03ms
+[2018.10.30-18.44.17:438][378]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItemAE8F4852420D3BE7924DDA8445CEFCE2.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.44.17:442][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.44.21:168][505]LogSlate: Window 'Save Content' being destroyed
+[2018.10.30-18.44.21:754][505]LogSavePackage: Save=334.19ms
+[2018.10.30-18.44.21:754][505]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap4013152C4B373873C4376D92FAA5E5BF.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap'
+[2018.10.30-18.44.21:759][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap
+[2018.10.30-18.44.21:805][505]LogFileHelpers: Saving map 'GeneralMap' took 0.605
+[2018.10.30-18.44.22:329][522]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem)
+[2018.10.30-18.44.22:860][545]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_WorldItem_C (BP_WorldItem2)
+[2018.10.30-18.44.24:139][607]Cmd: DELETE
+[2018.10.30-18.44.24:139][607]Cmd: ACTOR DELETE
+[2018.10.30-18.44.24:196][607]LogEditorActor: Deleted Actor: BP_WorldItem_C
+[2018.10.30-18.44.24:198][607]LogEditorActor: Deleted Actor: BP_WorldItem_C
+[2018.10.30-18.44.24:242][607]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001947c131270, Size=24
+[2018.10.30-18.44.24:242][607]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c529570, Size=24
+[2018.10.30-18.44.24:242][607]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949bf3d180, Size=24
+[2018.10.30-18.44.24:242][607]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949c529060, Size=24
+[2018.10.30-18.44.24:242][607]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194593520b0, Size=24
+[2018.10.30-18.44.24:245][607]LogEditorActor: Deleted 2 Actors (0.077 secs)
+[2018.10.30-18.44.25:833][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.44.29:397][818]Cmd: DUPLICATE
+[2018.10.30-18.44.29:397][818]Cmd: ACTOR DUPLICATE
+[2018.10.30-18.44.31:744][928]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-18.44.39:722][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Apple_C (BP_WorldItem_Apple2)
+[2018.10.30-18.44.40:414][ 83]Cmd: DELETE
+[2018.10.30-18.44.40:414][ 83]Cmd: ACTOR DELETE
+[2018.10.30-18.44.40:425][ 83]LogEditorActor: Deleted Actor: BP_WorldItem_Apple_C
+[2018.10.30-18.44.40:461][ 83]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.10.30-18.44.41:162][120]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Apple_C (BP_WorldItem_Apple)
+[2018.10.30-18.44.44:210][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.44.44:264][274]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-18.44.44:319][274]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.44.44:319][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.30-18.44.44:319][274]PIE: New page: PIE session: GeneralMap (Oct 30, 2018, 12:44:44 PM)
+[2018.10.30-18.44.44:320][274]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.30-18.44.44:346][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026179s)
+[2018.10.30-18.44.44:347][274]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.30-18.44.44:347][274]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.10.30-18.44.44:347][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.027205s)
+[2018.10.30-18.44.44:384][274]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.30-18.44.44:400][274]LogInit: FAudioDevice initialized.
+[2018.10.30-18.44.44:440][274]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.30-18.44.44:445][274]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.30-15.44.44
+[2018.10.30-18.44.44:445][274]LogWorld: Bringing up level for play took: 0.004962
+[2018.10.30-18.44.44:450][274]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 0.973
+[2018.10.30-18.44.44:450][274]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.44.44:451][274]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.30-18.44.44:451][274]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.30-18.44.47:711][447]LogBlueprintUserMessages: [BP_WorldItem_Apple2_77] Added Item
+[2018.10.30-18.44.50:759][613]LogBlueprintUserMessages: [BP_WorldItem_Apple_50] Added Item
+[2018.10.30-18.44.53:671][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.44.53:722][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-18.46.37:594][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.47.12:607][233]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.30-18.47.53:583][726]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.30-18.48.36:175][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946e0d63e8, Size=4
+[2018.10.30-18.48.36:175][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd66050, Size=4, Default__BPInventoryComponent_C Function /Engine/Transient.REINST_BPInventoryComponent_C_224:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.48.36:184][939]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.BP_InvItem_Empty_C'
+[2018.10.30-18.48.36:193][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949cd677a0, Size=4, Default__BPInventoryComponent_C Function /Game/Blueprints/Components/BPInventoryComponent.BPInventoryComponent_C:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetInventoryItemInfo.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetInventoryItemInfo.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetItemInfo.K2Node_FunctionEntry_1' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetItemInfo.K2Node_FunctionResult_1' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:CanStack?.K2Node_FunctionEntry_2' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:CanStack?.K2Node_FunctionResult_2' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetMaxStackAmount.K2Node_FunctionEntry_3' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetMaxStackAmount.K2Node_FunctionResult_3' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetRoomOnStack.K2Node_FunctionEntry_14' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.BP_InvenItem_Empty:GetRoomOnStack.K2Node_FunctionResult_5' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:240][939]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.SKEL_BP_InvenItem_Empty_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvItem_Empty.PackageMetaData'
+[2018.10.30-18.48.36:290][939]LogSavePackage: Save=17.21ms
+[2018.10.30-18.48.36:290][939]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_EmptyD3F6DC3E4C64F1D31C4145943D641953.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.uasset'
+[2018.10.30-18.48.36:295][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Empty.uasset
+[2018.10.30-18.48.36:414][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd66050, Size=4
+[2018.10.30-18.48.36:641][939]LogSavePackage: Save=92.71ms
+[2018.10.30-18.48.36:641][939]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPInventoryComponent09FC874B4DDF38C08294BE9D34756570.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Components/BPInventoryComponent.uasset'
+[2018.10.30-18.48.36:645][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Components/BPInventoryComponent.uasset
+[2018.10.30-18.48.45:100][376]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Nails.BP_InvenItem_Nails_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem_Nails.PackageMetaData'
+[2018.10.30-18.48.45:100][376]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Nails.SKEL_BP_InvenItem_Nails_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InventoryItem_Nails.PackageMetaData'
+[2018.10.30-18.48.45:141][376]LogSavePackage: Save=8.05ms
+[2018.10.30-18.48.45:141][376]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_NailsC1E71D0C4A4B994F41C794B41688E1A6.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Nails.uasset'
+[2018.10.30-18.48.45:146][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Nails.uasset
+[2018.10.30-18.48.52:728][701]LogSlate: Window 'Save Content' being destroyed
+[2018.10.30-18.48.52:771][701]LogSavePackage: Save=8.82ms
+[2018.10.30-18.48.52:771][701]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_WaterBottle8526DD7346A98ED4443F8B989A98F3A0.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_WaterBottle.uasset'
+[2018.10.30-18.48.52:776][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_WaterBottle.uasset
+[2018.10.30-18.48.53:317][701]LogSavePackage: Save=335.25ms
+[2018.10.30-18.48.53:317][701]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap5C41EB0948B1DA074240E3A14EB1CF65.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap'
+[2018.10.30-18.48.53:321][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap
+[2018.10.30-18.48.53:367][701]LogFileHelpers: Saving map 'GeneralMap' took 0.587
+[2018.10.30-18.49.29:341][728]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.30-18.49.40:056][281]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.SKEL_BP_InvenItem_Water_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_WaterBottle.PackageMetaData'
+[2018.10.30-18.49.40:056][281]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.BP_InvenItem_Water_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Objects/BP_InvenItem_WaterBottle.PackageMetaData'
+[2018.10.30-18.49.40:105][281]LogSavePackage: Save=9.91ms
+[2018.10.30-18.49.40:105][281]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_Water291EB2A84CBF04BC1EE8C997BB991D27.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.uasset'
+[2018.10.30-18.49.40:111][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.uasset
+[2018.10.30-18.49.52:327][566]LogSlate: Window 'BP_InvenItem_Water' being destroyed
+[2018.10.30-18.49.52:338][567]LogRenderer: Reallocating scene render targets to support 1132x544 Format 10 NumSamples 1 (Frame:12862).
+[2018.10.30-18.49.55:948][704]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.10.30-18.49.56:097][704]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.30-18.50.55:721][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.30-18.51.17:731][163]LogSavePackage: Save=7.64ms
+[2018.10.30-18.51.17:731][163]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/DTItemsA45E224346543E096C20839EC9ACD493.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset'
+[2018.10.30-18.51.17:740][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset
+[2018.10.30-18.53.16:042][404]LogSavePackage: Save=8.15ms
+[2018.10.30-18.53.16:042][404]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/DTItemsBBF018F843A69C6B9ED6189E87E085E2.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset'
+[2018.10.30-18.53.16:046][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset
+[2018.10.30-18.53.21:908][756]BlueprintLog: New page: Compile BP_InvenItem_Water
+[2018.10.30-18.53.24:796][922]LogSavePackage: Save=8.50ms
+[2018.10.30-18.53.24:796][922]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InvenItem_WaterCA215A3344E8CFB48B6EF4AD79DD61F8.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.uasset'
+[2018.10.30-18.53.24:801][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Objects/BP_InvenItem_Water.uasset
+[2018.10.30-18.53.42:768][725]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.30-18.53.47:510][  7]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.53.47:525][  7]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001945179e908, Size=24
+[2018.10.30-18.53.47:525][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bde1600, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_246:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.53.47:525][  7]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949bf3d3c0, Size=24
+[2018.10.30-18.53.47:525][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bde3d60, Size=24, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_246:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.53.47:527][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bde17f8, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.53.47:527][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949bde26c8, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.53.48:974][ 44]LogSavePackage: Save=32.37ms
+[2018.10.30-18.53.48:974][ 44]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItemC0CAD77E4DC8333F1921048E149FDA26.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.53.48:978][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.53.49:842][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.30-18.54.11:542][394]BlueprintLog: New page: Compile BP_WorldItem
+[2018.10.30-18.54.11:556][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949bde17f8, Size=24
+[2018.10.30-18.54.11:556][394]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019492feb6e8, Size=24, BP_WorldItem_C_129 Function /Engine/Transient.REINST_BP_WorldItem_C_254:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.54.11:556][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949bde26c8, Size=24
+[2018.10.30-18.54.11:556][394]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019492fe8a48, Size=24, BP_WorldItem_Apple_C_117 Function /Engine/Transient.REINST_BP_WorldItem_C_254:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.54.11:559][394]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019492fe8f88, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.54.11:559][394]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019492feae78, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.54.12:918][426]LogSavePackage: Save=33.33ms
+[2018.10.30-18.54.12:918][426]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItemB51ACC184865948A976F9BAF8D77FDC2.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset'
+[2018.10.30-18.54.12:922][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_WorldItem.uasset
+[2018.10.30-18.54.25:357][104]BlueprintLog: New page: Compile BP_InventoryItem
+[2018.10.30-18.54.26:546][158]LogSavePackage: Save=43.62ms
+[2018.10.30-18.54.26:546][158]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_InventoryItemD4A96E8A49EE3EBE64A91F9475BD15AD.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_InventoryItem.uasset'
+[2018.10.30-18.54.26:550][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/BasesClasses/BP_InventoryItem.uasset
+[2018.10.30-18.55.03:648][ 91]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.30-18.55.12:723][362]LogUObjectGlobals: Created PersistentFrame Addr=0x000001946c401408, Size=24, Default__BP_WorldItem_Water_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.55.19:422][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.55.30:490][791]LogSlate: Window 'BP_WorldItem_Water*' being destroyed
+[2018.10.30-18.55.35:022][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.30-18.55.53:658][ 75]BlueprintLog: New page: Compile BP_WorldItem_Water
+[2018.10.30-18.55.53:662][ 75]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001946c401408, Size=24
+[2018.10.30-18.55.53:662][ 75]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947d7ce008, Size=24, Default__BP_WorldItem_Water_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.55.53:663][ 75]LogUObjectGlobals: Created PersistentFrame Addr=0x000001947d7cfaa8, Size=24, Default__BP_WorldItem_Water_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.55.54:721][108]LogSavePackage: Save=23.98ms
+[2018.10.30-18.55.54:721][108]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_Water878679B148C0DA430B164ABDAA3D21C3.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Water.uasset'
+[2018.10.30-18.55.54:726][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Water.uasset
+[2018.10.30-18.56.00:713][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-18.56.14:342][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-18.56.34:788][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.56.34:837][491]BlueprintLog: New page: Compile BP_WorldItem_Water
+[2018.10.30-18.56.34:842][491]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001947d7cfaa8, Size=24
+[2018.10.30-18.56.34:842][491]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949aa6d6d8, Size=24, BP_WorldItem_Water_C_44 Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.56.34:842][491]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949aa6fb20, Size=24, Default__BP_WorldItem_Water_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-18.56.35:788][507]LogSavePackage: Save=21.50ms
+[2018.10.30-18.56.35:788][507]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_WaterABF485E541883A0FFEC689BBEE220224.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Water.uasset'
+[2018.10.30-18.56.35:793][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Water.uasset
+[2018.10.30-18.56.38:191][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-18.56.43:019][876]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.30-18.58.55:768][535]LogSavePackage: Save=8.14ms
+[2018.10.30-18.58.55:768][535]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/FinventoryItemDFC749C648049E3FA4A7D2BF7B088E7A.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/FinventoryItem.uasset'
+[2018.10.30-18.58.55:773][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/FinventoryItem.uasset
+[2018.10.30-18.59.27:082][324]Cmd: TRANSACTION UNDO
+[2018.10.30-18.59.27:082][324]LogEditorTransaction: Undo Remove Data Table Row
+[2018.10.30-19.00.19:374][981]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.30-19.00.22:976][ 65]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949b6e03e8, Size=24, Default__Knife_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.00.33:010][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949b6e03e8, Size=24
+[2018.10.30-19.00.33:010][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001948bd7bf88, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.00.33:011][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001948bd79e10, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.00.33:203][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.BP_WorldItem_Knife:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:204][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.SKEL_BP_WorldItem_Knife_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:204][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.BP_WorldItem_Knife_C' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:204][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.BP_WorldItem_Knife:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:204][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.BP_WorldItem_Knife:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:204][250]LogMetaData: Removing '/Game/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.BP_WorldItem_Knife:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Inventory/Items/Actors/Knife.PackageMetaData'
+[2018.10.30-19.00.33:423][250]LogSavePackage: Save=32.67ms
+[2018.10.30-19.00.33:423][250]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_KnifeEB060ED24814C4F5F1351BB909520923.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.uasset'
+[2018.10.30-19.00.33:427][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.uasset
+[2018.10.30-19.00.33:545][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001948bd7bf88, Size=24
+[2018.10.30-19.00.39:925][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-19.00.47:005][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-19.00.47:055][763]BlueprintLog: New page: Compile BP_WorldItem_Knife
+[2018.10.30-19.00.47:058][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001948bd79e10, Size=24
+[2018.10.30-19.00.47:058][763]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194b397b178, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.00.47:058][763]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194b397acb0, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.00.48:246][793]LogSavePackage: Save=21.28ms
+[2018.10.30-19.00.48:246][793]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BP_WorldItem_KnifeFBD0601E42D96F933F1E48A3FD45576B.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.uasset'
+[2018.10.30-19.00.48:250][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Inventory/Items/Actors/BP_WorldItem_Knife.uasset
+[2018.10.30-19.00.53:355][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-19.00.56:073][256]LogSavePackage: Save=7.77ms
+[2018.10.30-19.00.56:073][256]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/DTItemsC1D7F79F410CBE6917B37EBF63E35BCA.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset'
+[2018.10.30-19.00.56:077][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Structure/DataTables/DTItems.uasset
+[2018.10.30-19.01.03:355][685]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-19.01.03:720][701]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Apple_C (BP_WorldItem_Apple)
+[2018.10.30-19.01.05:499][790]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Apple_C (BP_WorldItem_Apple2)
+[2018.10.30-19.01.06:481][838]Cmd: DELETE
+[2018.10.30-19.01.06:481][838]Cmd: ACTOR DELETE
+[2018.10.30-19.01.06:488][838]LogEditorActor: Deleted Actor: BP_WorldItem_Apple_C
+[2018.10.30-19.01.06:514][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194b397b178, Size=24
+[2018.10.30-19.01.06:515][838]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.10.30-19.01.09:663][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-19.01.11:523][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-19.01.16:278][211]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-19.01.16:331][211]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.10.30-19.01.16:737][231]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Apple_C (BP_WorldItem_Apple)
+[2018.10.30-19.01.18:022][291]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-19.01.20:062][388]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_Knife_C (BP_WorldItem_Knife)
+[2018.10.30-19.01.21:090][434]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-19.01.22:691][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-19.01.22:772][514]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.30-19.01.22:824][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.30-19.01.22:824][514]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.30-19.01.22:852][514]LogPlayLevel: [PlayLevel] Compiling BP_InventoryItem before play...
+[2018.10.30-19.01.22:865][514]LogPlayLevel: [PlayLevel]   Compiling BP_InvenItem_Apple as a dependent...
+[2018.10.30-19.01.22:865][514]LogPlayLevel: [PlayLevel]   Compiling BP_InvenItem_Axe as a dependent...
+[2018.10.30-19.01.22:868][514]LogPlayLevel: [PlayLevel]   Compiling BP_InvenItem_Empty as a dependent...
+[2018.10.30-19.01.22:869][514]LogPlayLevel: [PlayLevel]   Compiling BP_InvenItem_Nails as a dependent...
+[2018.10.30-19.01.22:870][514]LogPlayLevel: [PlayLevel]   Compiling BP_InvenItem_Water as a dependent...
+[2018.10.30-19.01.22:875][514]LogPlayLevel: [PlayLevel]   Compiling BP_WorldItem as a dependent...
+[2018.10.30-19.01.22:888][514]LogPlayLevel: [PlayLevel]   Compiling BPInventoryComponent as a dependent...
+[2018.10.30-19.01.22:924][514]LogPlayLevel: [PlayLevel]   Compiling Widget_InventorySlot as a dependent...
+[2018.10.30-19.01.22:946][514]LogPlayLevel: [PlayLevel]   Compiling UI_InventoryPanel as a dependent...
+[2018.10.30-19.01.22:955][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019492fe8f88, Size=24
+[2018.10.30-19.01.22:955][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91de28, Size=24, BP_WorldItem_C_135 Function /Engine/Transient.REINST_BP_WorldItem_C_352:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949cd677a0, Size=4
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949d552ce0, Size=4, Default__BPInventoryComponent_C Function /Engine/Transient.REINST_BPInventoryComponent_C_353:ExecuteUbergraph_BPInventoryComponent
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019492feae78, Size=24
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91fe20, Size=24, BP_WorldItem_Apple_C_119 Function /Engine/Transient.REINST_BP_WorldItem_C_352:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194b397acb0, Size=24
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91f4c0, Size=24, Default__BP_WorldItem_Knife_C Function /Engine/Transient.REINST_BP_WorldItem_C_352:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001949aa6fb20, Size=24
+[2018.10.30-19.01.22:956][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001949a91f460, Size=24, BP_WorldItem_Water_C_51 Function /Engine/Transient.REINST_BP_WorldItem_C_352:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.22:957][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001947d142d40, Size=304
+[2018.10.30-19.01.22:957][514]LogUObjectGlobals: Created PersistentFrame Addr=0x00000194b460eac0, Size=304, Default__Widget_InventorySlot_C Function /Engine/Transient.REINST_Widget_InventorySlot_C_22:ExecuteUbergraph_Widget_InventorySlot
+[2018.10.30-19.01.22:978][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.22:978][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BasesClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.30-19.01.23:004][514]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)

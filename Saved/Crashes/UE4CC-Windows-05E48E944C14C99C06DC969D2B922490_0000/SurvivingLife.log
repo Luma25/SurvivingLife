@@ -1,0 +1,1054 @@
+﻿Log file open, 10/25/18 16:48:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SurvivingLife
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(573028402) SRandInit(573028403).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196061
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.158s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Binaries/Win64/UE4Editor-SurvivingLife.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SP4B9R1 (172.16.32.243:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.25-19.48.39:166][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.25-19.48.39:166][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.25-19.48.39:206][  0]LogInit: Computer: DESKTOP-SP4B9R1
+[2018.10.25-19.48.39:206][  0]LogInit: User: FelipeDelgado
+[2018.10.25-19.48.39:206][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.25-19.48.39:206][  0]LogInit: High frequency timer resolution =2.340363 MHz
+[2018.10.25-19.48.39:207][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.25-19.48.39:207][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.25-19.48.39:207][  0]LogMemory: Process Physical Memory: 273.83 MB used, 273.83 MB peak
+[2018.10.25-19.48.39:207][  0]LogMemory: Process Virtual Memory: 270.07 MB used, 270.07 MB peak
+[2018.10.25-19.48.39:207][  0]LogMemory: Physical Memory: 3245.50 MB used,  4845.88 MB free, 8091.37 MB total
+[2018.10.25-19.48.39:207][  0]LogMemory: Virtual Memory: 4782.30 MB used,  4845.88 MB free, 134217728.00 MB total
+[2018.10.25-19.48.39:259][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2018.10.25-19.48.39:259][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2018.10.25-19.48.39:264][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.25-19.48.39:751][  0]LogStreaming: Display: Took  0.492s to EndInitTextLocalization.
+[2018.10.25-19.48.39:751][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.25-19.48.39:834][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.25-19.48.39:834][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.25-19.48.40:146][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.25-19.48.40:182][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.10.25-19.48.40:182][  0]LogD3D11RHI:       2019/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.25-19.48.40:190][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.10.25-19.48.40:190][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.25-19.48.40:194][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.25-19.48.40:194][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.25-19.48.40:194][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.25-19.48.40:232][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.25-19.48.40:232][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.25-19.48.40:232][  0]LogWindows: EnumDisplayDevices:
+[2018.10.25-19.48.40:232][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.10.25-19.48.40:233][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:1)
+[2018.10.25-19.48.40:233][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.25-19.48.40:233][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.25-19.48.40:233][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.10.25-19.48.40:233][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.25-19.48.40:233][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.25-19.48.40:233][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.10.25-19.48.40:257][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.25-19.48.40:257][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.25-19.48.40:257][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.25-19.48.40:277][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.25-19.48.40:279][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Intermediate/Shaders/WorkingDirectory/11212/).
+[2018.10.25-19.48.40:279][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe Delgado/AppData/Local/Temp/UnrealShaderWorkingDir/12264A7047712F71930D52B06CB84258/'.
+[2018.10.25-19.48.40:751][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.25-19.48.40:770][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.25-19.48.40:789][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.25-19.48.40:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.25-19.48.40:832][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.25-19.48.40:851][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.25-19.48.40:869][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.25-19.48.40:887][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.25-19.48.40:897][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.25-19.48.40:912][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.25-19.48.40:927][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.25-19.48.40:942][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.25-19.48.40:957][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.25-19.48.40:972][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.25-19.48.40:987][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.25-19.48.41:018][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.25-19.48.41:018][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.25-19.48.41:033][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.25-19.48.41:035][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.25-19.48.41:078][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.25-19.48.41:093][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.25-19.48.41:108][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.25-19.48.41:123][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.25-19.48.41:137][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.25-19.48.41:153][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.25-19.48.41:154][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.25-19.48.41:369][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.25-19.48.41:369][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.25-19.48.41:369][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.25-19.48.42:303][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: Loaded boot cache 0.13s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.25-19.48.42:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.25-19.48.42:450][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.25-19.48.42:464][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.25-19.48.42:464][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.25-19.48.42:464][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.25-19.48.42:476][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.25-19.48.42:477][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.25-19.48.42:477][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.25-19.48.42:477][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.25-19.48.42:661][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.10.25-19.48.43:126][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.25-19.48.43:349][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.25-19.48.43:355][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.25-19.48.43:355][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.25-19.48.43:355][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.25-19.48.43:355][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.25-19.48.43:355][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.25-19.48.43:414][  0]LogNetVersion: SurvivingLife , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2489833211)
+[2018.10.25-19.48.44:042][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.112032 seconds
+[2018.10.25-19.48.44:050][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.25-19.48.44:050][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.25-19.48.44:050][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.25-19.48.46:492][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.25-19.48.46:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.25-19.48.46:974][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/M_Cursor_Decal'
+[2018.10.25-19.48.46:974][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/M_Cursor_Decal'
+[2018.10.25-19.48.46:974][  0]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+[2018.10.25-19.48.46:974][  0]Error: CDO Constructor (SurvivingLifeCharacter): Failed to find Material'/Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.10.25-19.48.46:974][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/TopDownCharacter'
+[2018.10.25-19.48.46:974][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/Blueprints/TopDownCharacter'
+[2018.10.25-19.48.46:974][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C'
+[2018.10.25-19.48.46:974][  0]Error: CDO Constructor (SurvivingLifeGameMode): Failed to find /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+
+[2018.10.25-19.48.46:975][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.10.25-19.48.46:975][  0]LogUObjectBase: Warning: Error: CDO Constructor (SurvivingLifeCharacter): Failed to find Material'/Game/TopDownCPP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.10.25-19.48.46:975][  0]LogUObjectBase: Warning: Error: CDO Constructor (SurvivingLifeGameMode): Failed to find /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+
+[2018.10.25-19.48.46:993][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.25-19.52.22:581][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.25-19.52.22:872][  0]SourceControl: Source control is disabled
+[2018.10.25-19.52.22:872][  0]SourceControl: Source control is disabled
+[2018.10.25-19.52.22:909][  0]SourceControl: Source control is disabled
+[2018.10.25-19.52.22:946][  0]SourceControl: Source control is disabled
+[2018.10.25-19.52.23:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.25-19.52.24:186][  0]LogOcInput: OculusInput pre-init called
+[2018.10.25-19.52.24:363][  0]LogEngine: Initializing Engine...
+[2018.10.25-19.52.24:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.25-19.52.24:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.25-19.52.24:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.25-19.52.24:660][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.25-19.52.24:689][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-19.52.24:717][  0]LogInit: FAudioDevice initialized.
+[2018.10.25-19.52.24:937][  0]LogDerivedDataCache: Saved boot cache 0.22s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.25-19.52.25:034][  0]LogInit: Texture streaming: Enabled
+[2018.10.25-19.52.25:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.25-19.52.25:087][  0]LogInit: Transaction tracking system initialized
+[2018.10.25-19.52.25:136][  0]BlueprintLog: New page: Editor Load
+[2018.10.25-19.52.25:282][  0]LocalizationService: Localization service is disabled
+[2018.10.25-19.52.25:448][  0]LogConsoleResponse: Display: 
+[2018.10.25-19.52.25:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.25-19.52.25:667][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.25-19.52.25:667][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.25-19.52.25:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.25-19.52.25:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.25-19.52.26:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/' took 0.03s
+[2018.10.25-19.52.26:452][  0]SourceControl: Source control is disabled
+[2018.10.25-19.52.26:453][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.25-19.52.26:453][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2018.10.25-19.52.26:453][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.25-19.52.26:538][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.501ms to complete.
+[2018.10.25-19.52.26:538][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.085
+[2018.10.25-19.52.26:641][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.25-19.52.26:754][  0]LogCollectionManager: Loaded 0 collections in 0.004554 seconds
+[2018.10.25-19.52.26:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Collections/' took 0.01s
+[2018.10.25-19.52.26:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Developers/FelipeDelgado/Collections/' took 0.01s
+[2018.10.25-19.52.26:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Collections/' took 0.01s
+[2018.10.25-19.52.26:807][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.25-19.52.26:820][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2455 classes and 560 folders.
+[2018.10.25-19.52.26:836][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.10.25-19.52.26:921][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.10.25-19.52.26:930][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.10.25-19.52.27:006][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.25-19.52.27:010][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.25-19.52.27:021][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.25-19.52.27:147][  0]LogRenderer: Reallocating scene render targets to support 1136x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.25-19.52.27:370][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.10.25-19.52.27:370][  0]LogLoad: (Engine Initialization) Total time: 233.69 seconds
+[2018.10.25-19.52.27:370][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.25-19.52.27:410][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.25-19.52.27:462][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/' took 0.07s
+[2018.10.25-19.52.27:617][  2]LogAssetRegistry: Asset discovery search completed in 224.9786 seconds
+[2018.10.25-19.52.27:619][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.25-19.52.27:619][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.10.25-19.52.31:453][274]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: libcurl info message cache 1 (Closing connection 1)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.25-19.57.38:446][291]LogHttp: Warning: 0000013061E14280: libcurl info message cache 4 (Closing connection 2)
+[2018.10.25-20.10.56:768][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-20.10.58:760][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-20.11.01:709][162]LogSlate: Window 'About Unreal Editor' being destroyed
+[2018.10.25-20.11.42:452][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-20.11.43:373][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-20.11.44:457][709]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Maps/GeneralMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.25-20.11.44:469][709]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.25-20.11.44:489][709]LightingResults: New page: Lighting Build
+[2018.10.25-20.11.44:496][709]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0015 seconds. Added 5 classes and 0 folders.
+[2018.10.25-20.11.44:497][709]LoadErrors: New page: Loading map: GeneralMap.umap
+[2018.10.25-20.11.44:498][709]MapCheck: New page: Map Check
+[2018.10.25-20.11.44:498][709]LightingResults: New page: Lighting Build
+[2018.10.25-20.11.44:686][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013042f6b0c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.25-20.11.44:700][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013042f6b0c0, Size=64
+[2018.10.25-20.11.44:700][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013042f6b100, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.25-20.11.44:708][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130438b2160, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.25-20.11.44:759][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013033da15a8, Size=4, Default__BPInventory_C Function /Game/Blueprints/Components/BPInventory.BPInventory_C:ExecuteUbergraph_BPInventory
+[2018.10.25-20.11.44:768][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013033da15a8, Size=4
+[2018.10.25-20.11.44:768][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013033da15a8, Size=4, Default__BPInventory_C Function /Engine/Transient.REINST_BPInventory_C_10:ExecuteUbergraph_BPInventory
+[2018.10.25-20.11.44:779][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043827a08, Size=4, Default__BPInventory_C Function /Game/Blueprints/Components/BPInventory.BPInventory_C:ExecuteUbergraph_BPInventory
+[2018.10.25-20.11.44:788][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130438789c0, Size=448, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.11.44:857][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043827528, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.25-20.11.44:919][709]LogUObjectGlobals: Created PersistentFrame Addr=0x000001304630ab78, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-20.11.44:956][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001304630ab78, Size=24
+[2018.10.25-20.11.44:956][709]LogUObjectGlobals: Created PersistentFrame Addr=0x000001304625f7c0, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-20.11.44:957][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013043827528, Size=8
+[2018.10.25-20.11.44:957][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013046233d58, Size=8, Default__WeatherManager_C Function /Engine/Transient.REINST_WeatherManager_C_16:ExecuteUbergraph_WeatherManager
+[2018.10.25-20.11.44:958][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130438789c0, Size=448
+[2018.10.25-20.11.44:958][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013061e42b00, Size=448, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_17:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.11.45:004][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130623b5e28, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-20.11.45:008][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130462332b0, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.25-20.11.45:015][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013046125600, Size=448, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.11.45:055][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130462315a0, Size=4, Default__SurvivingLifeGameMode_C Function /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.25-20.11.45:057][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130462315a0, Size=4
+[2018.10.25-20.11.45:057][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130462315a0, Size=4, Default__SurvivingLifeGameMode_C Function /Engine/Transient.REINST_SurvivingLifeGameMode_C_26:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.25-20.11.45:058][709]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013046231478, Size=4, Default__SurvivingLifeGameMode_C Function /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.10.25-20.11.45:466][709]LogSkeletalMesh: Skeletal Mesh found in DDC [14.603291ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.10.25-20.11.45:605][709]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.11.45:833][709]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.25-20.11.45:868][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013042f6b100, Size=64
+[2018.10.25-20.11.45:868][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013033da15a8, Size=4
+[2018.10.25-20.11.45:868][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013061e42b00, Size=448
+[2018.10.25-20.11.45:868][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013046233d58, Size=8
+[2018.10.25-20.11.45:868][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001304625f7c0, Size=24
+[2018.10.25-20.11.45:869][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130462315a0, Size=4
+[2018.10.25-20.11.45:944][709]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.25-20.11.46:051][709]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.95ms to complete.
+[2018.10.25-20.11.46:051][709]LogFileHelpers: Loading map 'GeneralMap' took 1.596
+[2018.10.25-20.11.46:053][709]LogSlate: Window 'Open Level' being destroyed
+[2018.10.25-20.11.48:599][798]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.25-20.11.48:893][804]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem)
+[2018.10.25-20.12.08:254][541]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.10:617][642]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.10:618][642]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.14:769][801]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.15:206][818]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.15:722][838]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.16:132][854]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.16:338][862]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.16:542][870]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.16:722][877]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.16:900][884]Cmd: ACTOR HIDE SELECTED
+[2018.10.25-20.12.17:490][907]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.17:490][907]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.19:033][964]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.19:033][964]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.19:678][989]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.19:678][989]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.20:148][  7]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.20:148][  7]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.20:510][ 21]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.20:510][ 21]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.20:792][ 32]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.20:792][ 32]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.21:106][ 44]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.21:106][ 44]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.21:358][ 54]Cmd: TRANSACTION UNDO
+[2018.10.25-20.12.21:358][ 54]LogEditorTransaction: Undo Hide Selected
+[2018.10.25-20.12.26:348][244]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem)
+[2018.10.25-20.12.31:720][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.12.38:862][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.12.38:929][720]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.12.38:958][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.12.38:958][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.12.38:958][720]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:12:38 PM)
+[2018.10.25-20.12.38:961][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.12.39:002][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041946s)
+[2018.10.25-20.12.39:004][720]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.12.39:004][720]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.10.25-20.12.39:004][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.042945s)
+[2018.10.25-20.12.39:021][720]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.12.39:043][720]LogInit: FAudioDevice initialized.
+[2018.10.25-20.12.39:089][720]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.12.39:094][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.12.39
+[2018.10.25-20.12.39:095][720]LogWorld: Bringing up level for play took: 0.003979
+[2018.10.25-20.12.39:112][720]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2018.10.25-20.12.39:117][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 0.96
+[2018.10.25-20.12.39:117][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.12.39:118][720]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.12.39:118][720]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.12.41:924][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.12.41:983][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.12.47:111][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.12.48:560][ 60]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.10.25-20.12.48:924][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013001262e10, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.25-20.12.48:925][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013001262e08, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.25-20.12.49:476][ 60]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.25-20.12.49:762][ 61]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.25-20.14.50:219][156]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.25-20.15.14:973][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.15.50:205][342]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.10.25-20.15.50:431][342]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.25-20.18.00:687][605]LogSlate: Window 'SurvivingLifeGameInstance' being destroyed
+[2018.10.25-20.18.03:226][679]LogSlate: Window 'SurvivingLifeGameInstance' being destroyed
+[2018.10.25-20.19.58:224][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.19.58:269][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.19.58:269][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.19.58:269][ 13]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:19:58 PM)
+[2018.10.25-20.19.58:270][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.19.58:293][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023534s)
+[2018.10.25-20.19.58:294][ 13]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.19.58:295][ 13]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2018.10.25-20.19.58:295][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.025079s)
+[2018.10.25-20.19.58:333][ 13]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.19.58:353][ 13]LogInit: FAudioDevice initialized.
+[2018.10.25-20.19.58:397][ 13]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.19.58:408][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.19.58
+[2018.10.25-20.19.58:409][ 13]LogWorld: Bringing up level for play took: 0.010153
+[2018.10.25-20.19.58:419][ 13]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 0.263
+[2018.10.25-20.19.58:420][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.19.58:420][ 13]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.19.58:420][ 13]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.20.27:684][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.27:738][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.30:852][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.20.30:930][512]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.20.30:965][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.30:965][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.20.30:965][512]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:20:30 PM)
+[2018.10.25-20.20.30:966][512]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.20.30:987][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021189s)
+[2018.10.25-20.20.30:988][512]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.20.30:988][512]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.10.25-20.20.30:988][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.022220s)
+[2018.10.25-20.20.31:014][512]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.20.31:033][512]LogInit: FAudioDevice initialized.
+[2018.10.25-20.20.31:072][512]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.20.31:075][512]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.20.31
+[2018.10.25-20.20.31:076][512]LogWorld: Bringing up level for play took: 0.002800
+[2018.10.25-20.20.31:079][512]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 0.922
+[2018.10.25-20.20.31:079][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.31:079][512]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.20.31:080][512]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.20.35:139][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.35:201][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.20.36:646][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.21.43:405][542]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.25-20.21.43:623][543]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SurvivingLife
+[2018.10.25-20.21.43:624][543]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.25-20.21.43:624][543]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.10.25-20.21.43:624][543]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.25-20.21.43:624][543]LogTemp: BranchPath = DESKTOP-SP4B9R1/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-SP4B9R1/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.10.25-20.21.43:624][543]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Felipe Delgado\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.25-20.23.13:422][875]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-20.23.13:614][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013046125600, Size=448
+[2018.10.25-20.23.13:614][875]LogUObjectGlobals: Created PersistentFrame Addr=0x000001306277a940, Size=448, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_51:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.23.13:643][875]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130699c6e80, Size=448, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.24.45:526][319]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.24.45:562][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.24.45:562][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.24.45:562][319]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:24:45 PM)
+[2018.10.25-20.24.45:563][319]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.24.45:583][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020701s)
+[2018.10.25-20.24.45:584][319]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.24.45:584][319]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.10.25-20.24.45:584][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.021766s)
+[2018.10.25-20.24.45:614][319]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.24.45:634][319]LogInit: FAudioDevice initialized.
+[2018.10.25-20.24.45:711][319]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.24.45:714][319]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.24.45
+[2018.10.25-20.24.45:715][319]LogWorld: Bringing up level for play took: 0.003225
+[2018.10.25-20.24.45:728][319]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap -0.429
+[2018.10.25-20.24.45:728][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.24.45:729][319]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.24.45:729][319]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.24.45:773][319]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.25-20.25.04:764][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.25.04:797][ 33]LogSlate: Window 'SurvivingLife Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.25-20.25.04:838][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.26.24:480][453]LogSavePackage: Save=394.85ms
+[2018.10.25-20.26.24:480][453]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap_Auto145EB97B94D0BAF012A1E0CA52A373E50.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto1.umap'
+[2018.10.25-20.26.24:482][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto1.umap
+[2018.10.25-20.26.24:489][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GeneralMap' took 0.481
+[2018.10.25-20.26.24:489][453]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2018.10.25-20.26.24:495][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BPSurvivingLifeCharacter] ([1] browsable assets)...
+[2018.10.25-20.26.24:572][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter]
+[2018.10.25-20.26.24:572][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BPSurvivingLifeCharacter]
+[2018.10.25-20.26.24:962][453]LogSavePackage: Save=344.04ms
+[2018.10.25-20.26.24:962][453]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter_Auto1B3C78F7D4E13A5BBC1DF04B7787EB107.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto1.uasset'
+[2018.10.25-20.26.24:966][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto1.uasset
+[2018.10.25-20.26.24:966][453]LogFileHelpers: Auto-saving content packages took 0.474
+[2018.10.25-20.29.22:952][249]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentToWorld' [No se ha encontrado el elemento.]
+[2018.10.25-20.29.45:882][585]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-20.29.46:063][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130699c6e80, Size=448
+[2018.10.25-20.29.46:063][585]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013098cf8640, Size=448, BPSurvivingLifeCharacter_C_27 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_66:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.29.46:093][585]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013092da9980, Size=448, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.29.47:310][597]LogSavePackage: Save=261.41ms
+[2018.10.25-20.29.47:310][597]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter2066344345319B16076CADB8BC53E2AC.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.10.25-20.29.47:318][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.10.25-20.29.47:693][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.29.47:729][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.29.47:729][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.29.47:729][618]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:29:47 PM)
+[2018.10.25-20.29.47:730][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.29.47:751][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021566s)
+[2018.10.25-20.29.47:752][618]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.29.47:753][618]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2018.10.25-20.29.47:753][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.023101s)
+[2018.10.25-20.29.47:776][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013098cf8640, Size=448
+[2018.10.25-20.29.47:782][618]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.29.47:803][618]LogInit: FAudioDevice initialized.
+[2018.10.25-20.29.47:877][618]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.29.47:881][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.29.47
+[2018.10.25-20.29.47:881][618]LogWorld: Bringing up level for play took: 0.004046
+[2018.10.25-20.29.47:891][618]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap -0.266
+[2018.10.25-20.29.47:891][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.29.47:892][618]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.29.47:892][618]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.29.50:191][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.29.50:227][698]LogSlate: Window 'SurvivingLife Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.25-20.29.50:269][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.30.48:941][171]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::ComponentOverlapActors' [No se ha encontrado el elemento.]
+[2018.10.25-20.31.16:084][701]LogEditorViewport: Clicking on Actor (LMB): BP_WorldItem_C (BP_WorldItem)
+[2018.10.25-20.31.18:828][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.31.23:317][ 42]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.25-20.33.59:131][211]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-20.33.59:308][211]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013092da9980, Size=448
+[2018.10.25-20.33.59:308][211]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013077e290c0, Size=448, BPSurvivingLifeCharacter_C_59 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_77:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.33.59:336][211]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013003b84f00, Size=448, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.34.49:367][152]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-20.34.49:400][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.34.49:400][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.34.49:401][152]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 2:34:49 PM)
+[2018.10.25-20.34.49:401][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-20.34.49:421][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019840s)
+[2018.10.25-20.34.49:422][152]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-20.34.49:423][152]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2018.10.25-20.34.49:423][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.021487s)
+[2018.10.25-20.34.49:449][152]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013077e290c0, Size=448
+[2018.10.25-20.34.49:455][152]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-20.34.49:475][152]LogInit: FAudioDevice initialized.
+[2018.10.25-20.34.49:549][152]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-20.34.49:554][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-17.34.49
+[2018.10.25-20.34.49:554][152]LogWorld: Bringing up level for play took: 0.004155
+[2018.10.25-20.34.49:565][152]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap -0.593
+[2018.10.25-20.34.49:565][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.34.49:565][152]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-20.34.49:566][152]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-20.34.54:938][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.34.54:971][340]LogSlate: Window 'SurvivingLife Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.25-20.34.55:021][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.35.22:178][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-20.35.36:011][752]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c51ad7b8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.35.43:863][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c51ad7b8, Size=4
+[2018.10.25-20.35.43:863][212]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c459fdf0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_81:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.35.43:877][212]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c46dcc38, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.35.54:934][844]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::ComponentOverlapActors' [No se ha encontrado el elemento.]
+[2018.10.25-20.36.11:029][787]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c46dcc38, Size=4
+[2018.10.25-20.36.11:029][787]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c48361e0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_83:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.11:044][787]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4834768, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.13:964][951]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c4834768, Size=4
+[2018.10.25-20.36.13:964][951]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bef1e3f8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_85:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.13:977][951]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bef1f110, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.17:266][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bef1f110, Size=4
+[2018.10.25-20.36.17:266][137]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58d0c8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_87:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.17:280][137]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58dfc0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.17:742][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf58dfc0, Size=4
+[2018.10.25-20.36.17:742][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c46de138, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_89:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.17:755][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bef1c2a0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.18:082][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bef1c2a0, Size=4
+[2018.10.25-20.36.18:083][165]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58f1f0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_91:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.18:096][165]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab75b8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.36:494][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab75b8, Size=4
+[2018.10.25-20.36.36:494][237]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab75b8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_93:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.36.36:508][237]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab55d8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.37.04:063][866]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorLocation' [No se ha encontrado el elemento.]
+[2018.10.25-20.37.04:249][877]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorLocation' [No se ha encontrado el elemento.]
+[2018.10.25-20.37.18:788][720]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorLocation' [No se ha encontrado el elemento.]
+[2018.10.25-20.38.49:513][ 54]LogSavePackage: Save=340.59ms
+[2018.10.25-20.38.49:514][ 54]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap_Auto2CDDD07BA4A4115419E2EFC868B023AAD.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto2.umap'
+[2018.10.25-20.38.49:516][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto2.umap
+[2018.10.25-20.38.49:520][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GeneralMap' took 0.438
+[2018.10.25-20.38.49:520][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.438
+[2018.10.25-20.38.49:524][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BPSurvivingLifeCharacter] ([1] browsable assets)...
+[2018.10.25-20.38.49:620][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter]
+[2018.10.25-20.38.49:620][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BPSurvivingLifeCharacter]
+[2018.10.25-20.38.49:939][ 54]LogSavePackage: Save=253.07ms
+[2018.10.25-20.38.49:939][ 54]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter_Auto26401B850434AD0CC0A46FAAC463EB647.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto2.uasset'
+[2018.10.25-20.38.49:941][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto2.uasset
+[2018.10.25-20.38.49:941][ 54]LogFileHelpers: Auto-saving content packages took 0.420
+[2018.10.25-20.43.50:478][  9]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-20.43.50:563][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab55d8, Size=4
+[2018.10.25-20.43.50:563][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bedfbae8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_102:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.43.50:668][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013003b84f00, Size=448
+[2018.10.25-20.43.50:668][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013023055980, Size=448, BPSurvivingLifeCharacter_C_199 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_108:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.43.50:688][  9]LogBlueprint: Error: [Compiler BPSurvivingLifeCharacter] Message node  Interaction
+Using Interface SKEL_BPI_Interact_C  must have a valid target or reference to self.
+[2018.10.25-20.43.50:711][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130054c9a80, Size=384, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.43.51:012][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bedfbae8, Size=4
+[2018.10.25-20.43.51:077][  9]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] [3317.39] Compile of BPSurvivingLifeCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 598 ms] (/Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter)
+[2018.10.25-20.43.53:250][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-20.43.53:250][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-20.43.57:785][126]LogSlate: Window 'Message' being destroyed
+[2018.10.25-20.44.38:888][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bef1fe28, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.38:926][572]BlueprintLog: New page: Collapse to Function
+[2018.10.25-20.44.38:927][572]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bef1fe28, Size=4
+[2018.10.25-20.44.38:927][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bef1fe28, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_112:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.38:940][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bedf8fc0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.38:969][572]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bedf8fc0, Size=4
+[2018.10.25-20.44.38:969][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bedf8fc0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_114:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.38:982][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c508aee8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.38:998][572]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c508aee8, Size=4
+[2018.10.25-20.44.38:998][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c508aee8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_116:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.39:011][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab6bb0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.39:026][572]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab6bb0, Size=4
+[2018.10.25-20.44.39:026][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab6bb0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_118:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.39:040][572]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab7970, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.45:672][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab7970, Size=4
+[2018.10.25-20.44.45:672][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bea47c58, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_120:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.44.45:686][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4836250, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.45.37:688][ 39]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c4836250, Size=4
+[2018.10.25-20.45.37:688][ 39]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf288478, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_122:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.45.37:703][ 39]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf289d78, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.45.42:831][335]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.25-20.46.14:735][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf289d78, Size=4
+[2018.10.25-20.46.14:735][234]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf08da68, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_124:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.46.14:749][234]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf1607e0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.46.24:885][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf1607e0, Size=4
+[2018.10.25-20.46.24:885][828]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58d6e0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_126:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.46.24:900][828]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58de98, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.46.45:578][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf58de98, Size=4
+[2018.10.25-20.46.45:578][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c459ee60, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_128:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.46.45:592][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c459c1b8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.49.04:395][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013023055980, Size=448
+[2018.10.25-20.49.04:395][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bef1fe28, Size=4
+[2018.10.25-20.49.04:799][350]LogSavePackage: Save=341.31ms
+[2018.10.25-20.49.04:799][350]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap_Auto306412851467B283E5966A48F629E8B6C.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto3.umap'
+[2018.10.25-20.49.04:802][350]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto3.umap
+[2018.10.25-20.49.04:805][350]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GeneralMap' took 0.450
+[2018.10.25-20.49.04:805][350]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.450
+[2018.10.25-20.49.04:809][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BPSurvivingLifeCharacter] ([1] browsable assets)...
+[2018.10.25-20.49.04:902][350]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter]
+[2018.10.25-20.49.04:902][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BPSurvivingLifeCharacter]
+[2018.10.25-20.49.05:220][350]LogSavePackage: Save=252.27ms
+[2018.10.25-20.49.05:220][350]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter_Auto3D29E8B8046D406EB6A3579BC33C2F9CD.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto3.uasset'
+[2018.10.25-20.49.05:223][350]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto3.uasset
+[2018.10.25-20.49.05:223][350]LogFileHelpers: Auto-saving content packages took 0.417
+[2018.10.25-20.50.20:695][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c459c1b8, Size=4
+[2018.10.25-20.50.20:695][837]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043e522d0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_134:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.20:711][837]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043e52498, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.21:883][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013043e52498, Size=4
+[2018.10.25-20.50.21:884][903]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130625696c0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_136:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.21:897][903]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130ba9624f0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.30:158][392]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130ba9624f0, Size=4
+[2018.10.25-20.50.30:158][392]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf495870, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_138:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.30:172][392]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf496580, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.37:256][709]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.25-20.50.37:264][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf496580, Size=4
+[2018.10.25-20.50.37:264][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab5e30, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_140:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.37:284][709]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab6300, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.58:538][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab6300, Size=4
+[2018.10.25-20.50.58:538][931]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013024618920, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_142:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.50.58:553][931]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013024618998, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.51.03:244][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013024618998, Size=4
+[2018.10.25-20.51.03:244][207]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf08e620, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_144:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.51.03:258][207]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf08e2b0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.51.41:759][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.25-20.54.42:956][ 87]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-20.54.43:041][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf08e2b0, Size=4
+[2018.10.25-20.54.43:041][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c5089b30, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_149:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.54.43:142][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130054c9a80, Size=384
+[2018.10.25-20.54.43:142][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013088d9c880, Size=384, BPSurvivingLifeCharacter_C_393 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_155:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.54.43:187][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130057b3c80, Size=416, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.54.43:526][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c5089b30, Size=4
+[2018.10.25-20.55.02:344][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043e50730, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.10:659][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013043e50730, Size=4
+[2018.10.25-20.55.10:659][662]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58cd88, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_159:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.10:677][662]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c51ae798, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.17:631][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c51ae798, Size=4
+[2018.10.25-20.55.17:631][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c459e0f0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_161:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.17:647][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf497810, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.39:049][318]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf497810, Size=4
+[2018.10.25-20.55.39:049][318]LogUObjectGlobals: Created PersistentFrame Addr=0x000001302461b2b0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_163:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.55.39:065][318]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130beab7308, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.01:791][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130beab7308, Size=4
+[2018.10.25-20.57.01:791][262]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c46dea60, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_165:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.01:806][262]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c3bb4140, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.08:238][642]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c3bb4140, Size=4
+[2018.10.25-20.57.08:238][642]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0d4d0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_167:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.08:253][642]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0ebf8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.13:329][941]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bdd0ebf8, Size=4
+[2018.10.25-20.57.13:329][941]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf1636a0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_169:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.13:342][941]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf160638, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.21:749][440]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf160638, Size=4
+[2018.10.25-20.57.21:749][440]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0ee98, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_171:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.57.21:763][440]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0fae8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-20.59.37:909][543]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013088d9c880, Size=384
+[2018.10.25-20.59.37:909][543]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf58cd88, Size=4
+[2018.10.25-20.59.38:320][543]LogSavePackage: Save=349.68ms
+[2018.10.25-20.59.38:320][543]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/GeneralMap_Auto4328A8F6443FA7C9952A7F282336F726A.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto4.umap'
+[2018.10.25-20.59.38:323][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Maps/GeneralMap_Auto4.umap
+[2018.10.25-20.59.38:326][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GeneralMap' took 0.456
+[2018.10.25-20.59.38:326][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.456
+[2018.10.25-20.59.38:330][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BPSurvivingLifeCharacter] ([1] browsable assets)...
+[2018.10.25-20.59.38:431][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter]
+[2018.10.25-20.59.38:431][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BPSurvivingLifeCharacter]
+[2018.10.25-20.59.38:741][543]LogSavePackage: Save=261.73ms
+[2018.10.25-20.59.38:741][543]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter_Auto401A544474D02C10DD787FCB997030452.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto4.uasset'
+[2018.10.25-20.59.38:744][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/Autosaves/Game/Blueprints/Character/BPSurvivingLifeCharacter_Auto4.uasset
+[2018.10.25-20.59.38:744][543]LogFileHelpers: Auto-saving content packages took 0.415
+[2018.10.25-21.00.34:931][850]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bdd0fae8, Size=4
+[2018.10.25-21.00.34:931][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001306256b380, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_177:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.34:947][850]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013062568c48, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.36:879][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013062568c48, Size=4
+[2018.10.25-21.00.36:879][959]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130be1b5290, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_179:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.36:895][959]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf58cdd8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.50:439][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf58cdd8, Size=4
+[2018.10.25-21.00.50:439][762]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c459d8f0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_181:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.50:452][762]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf2887e8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.56:515][111]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-21.00.56:602][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf2887e8, Size=4
+[2018.10.25-21.00.56:603][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4475d18, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_186:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.56:783][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130623b5e28, Size=24
+[2018.10.25-21.00.56:783][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130cd7dcfe8, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_193:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-21.00.56:784][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130462332b0, Size=8
+[2018.10.25-21.00.56:784][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4474a08, Size=8, Default__WeatherManager_C Function /Engine/Transient.REINST_WeatherManager_C_194:ExecuteUbergraph_WeatherManager
+[2018.10.25-21.00.56:785][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130057b3c80, Size=416
+[2018.10.25-21.00.56:785][111]LogUObjectGlobals: Created PersistentFrame Addr=0x000001309a196080, Size=416, BPSurvivingLifeCharacter_C_611 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_195:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.56:833][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130ce335360, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-21.00.56:836][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf28bf18, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.25-21.00.56:844][111]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c5778480, Size=400, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.00.57:600][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c4475d18, Size=4
+[2018.10.25-21.00.57:601][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c459d8f0, Size=4
+[2018.10.25-21.00.58:654][138]LogSavePackage: Save=265.39ms
+[2018.10.25-21.00.58:654][138]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter70AAC1524E3B935C1B868687F9C8784D.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.10.25-21.00.58:663][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.10.25-21.01.16:438][181]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.25-21.01.43:549][782]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013043e50730, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.46:417][943]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013043e50730, Size=4
+[2018.10.25-21.01.46:417][943]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0d9e8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_203:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.46:431][943]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bdd0fb50, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.48:196][ 38]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bdd0fb50, Size=4
+[2018.10.25-21.01.48:196][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c3bb47a0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_205:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.48:210][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c3bb5a60, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.51:473][223]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c3bb5a60, Size=4
+[2018.10.25-21.01.51:473][223]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c46df2b8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_207:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.51:488][223]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c46df4d0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.52:819][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c46df4d0, Size=4
+[2018.10.25-21.01.52:820][292]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bea479d0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_209:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.01.52:835][292]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bea45488, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.07:348][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bea45488, Size=4
+[2018.10.25-21.02.07:348][136]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4474488, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_211:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.07:364][136]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c4474ae8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.42:077][183]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-21.02.42:166][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c4474ae8, Size=4
+[2018.10.25-21.02.42:167][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c51acf90, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_216:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.42:370][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130ce335360, Size=24
+[2018.10.25-21.02.42:370][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000001303c89dd68, Size=24, BP_WorldItem_C_51 Function /Engine/Transient.REINST_BP_WorldItem_C_223:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-21.02.42:371][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf28bf18, Size=8
+[2018.10.25-21.02.42:371][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c51adbc0, Size=8, WeatherManager_C_0 Function /Engine/Transient.REINST_WeatherManager_C_224:ExecuteUbergraph_WeatherManager
+[2018.10.25-21.02.42:373][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c5778480, Size=400
+[2018.10.25-21.02.42:373][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d1e382c0, Size=400, BPSurvivingLifeCharacter_C_781 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_225:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.42:440][183]LogBlueprint: Error: [Compiler BPSurvivingLifeCharacter] COMPILER ERROR: failed building connection with 'Array of BP World Item Object References is not compatible with Array of Actor Object References.' at  Get (a copy)
+[2018.10.25-21.02.42:441][183]LogBlueprint: Error: [Compiler BPSurvivingLifeCharacter] Can't connect pins  Item  and  Target Array : Array of Actor Object References is not compatible with Array of BP World Item Object References.
+[2018.10.25-21.02.42:441][183]LogBlueprint: Error: [Compiler BPSurvivingLifeCharacter] Can't connect pins  Target Array  and  Item : Array of BP World Item Object References is not compatible with Array of Actor Object References.
+[2018.10.25-21.02.42:456][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d002cb08, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/Actors/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.10.25-21.02.42:461][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130ba960e98, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.10.25-21.02.42:472][183]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130cf531280, Size=432, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.02.43:301][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c51acf90, Size=4
+[2018.10.25-21.02.43:301][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130cd7dcfe8, Size=24
+[2018.10.25-21.02.43:301][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c4474a08, Size=8
+[2018.10.25-21.02.43:301][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001309a196080, Size=416
+[2018.10.25-21.02.43:362][183]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] [4449.68] Compile of BPSurvivingLifeCharacter failed. 3 Fatal Issue(s) 0 Warning(s) [in 1,284 ms] (/Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter)
+[2018.10.25-21.02.44:319][209]LogSavePackage: Save=262.22ms
+[2018.10.25-21.02.44:319][209]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacterC934119E4C4273817390668AEFDA03AB.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.10.25-21.02.44:329][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.10.25-21.03.11:822][805]LogSlate: Window 'StandardMacros' being destroyed
+[2018.10.25-21.03.13:244][880]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d4c310a8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.23:133][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130d4c310a8, Size=4
+[2018.10.25-21.03.23:133][441]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c436ccc8, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_233:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.23:148][441]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130c436d4e0, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.SKEL_BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.31:927][950]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-21.03.32:016][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c436d4e0, Size=4
+[2018.10.25-21.03.32:016][950]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130bf163988, Size=4, Default__SKEL_BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_SKEL_BPSurvivingLifeCharacter_C_238:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.32:116][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130cf531280, Size=432
+[2018.10.25-21.03.32:116][950]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d09d5b40, Size=432, BPSurvivingLifeCharacter_C_819 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_244:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.32:146][950]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130912f42c0, Size=432, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.32:495][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130d1e382c0, Size=400
+[2018.10.25-21.03.32:496][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130c51adbc0, Size=8
+[2018.10.25-21.03.32:496][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001303c89dd68, Size=24
+[2018.10.25-21.03.32:496][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130bf163988, Size=4
+[2018.10.25-21.03.33:434][972]LogSavePackage: Save=289.22ms
+[2018.10.25-21.03.33:434][972]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacter920A09B6461D918B6D6A498B179750C6.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.10.25-21.03.33:439][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.10.25-21.03.35:085][ 66]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.25-21.03.35:123][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.03.35:124][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-21.03.35:124][ 66]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 3:03:35 PM)
+[2018.10.25-21.03.35:124][ 66]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-21.03.35:151][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026322s)
+[2018.10.25-21.03.35:151][ 66]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-21.03.35:152][ 66]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.10.25-21.03.35:152][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.027469s)
+[2018.10.25-21.03.35:185][ 66]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130d09d5b40, Size=432
+[2018.10.25-21.03.35:192][ 66]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-21.03.35:214][ 66]LogInit: FAudioDevice initialized.
+[2018.10.25-21.03.35:284][ 66]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-21.03.35:288][ 66]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-18.03.35
+[2018.10.25-21.03.35:288][ 66]LogWorld: Bringing up level for play took: 0.004001
+[2018.10.25-21.03.35:297][ 66]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 1.14
+[2018.10.25-21.03.35:297][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.03.35:297][ 66]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-21.03.35:298][ 66]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-21.03.44:678][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.03.44:713][410]LogSlate: Window 'SurvivingLife Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.25-21.03.44:760][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.03.56:876][101]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.10.25-21.03.57:062][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130912f42c0, Size=432
+[2018.10.25-21.03.57:062][101]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d0b4ecc0, Size=432, BPSurvivingLifeCharacter_C_845 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_255:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.57:093][101]LogUObjectGlobals: Created PersistentFrame Addr=0x00000130d1909980, Size=432, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.10.25-21.03.59:364][178]LogSavePackage: Save=271.45ms
+[2018.10.25-21.03.59:364][178]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Saved/BPSurvivingLifeCharacterF0FFE49D4999E3F04841979709A42165.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.10.25-21.03.59:369][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/SurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.10.25-21.04.00:323][231]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.25-21.04.00:352][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.04.00:352][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-21.04.00:353][231]PIE: New page: PIE session: GeneralMap (Oct 25, 2018, 3:04:00 PM)
+[2018.10.25-21.04.00:353][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.10.25-21.04.00:373][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020288s)
+[2018.10.25-21.04.00:375][231]LogAIModule: Creating AISystem for world GeneralMap
+[2018.10.25-21.04.00:375][231]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2018.10.25-21.04.00:375][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.022106s)
+[2018.10.25-21.04.00:402][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000130d0b4ecc0, Size=432
+[2018.10.25-21.04.00:408][231]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.25-21.04.00:427][231]LogInit: FAudioDevice initialized.
+[2018.10.25-21.04.00:504][231]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.10.25-21.04.00:510][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.10.25-18.04.00
+[2018.10.25-21.04.00:510][231]LogWorld: Bringing up level for play took: 0.005484
+[2018.10.25-21.04.00:522][231]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 0.365
+[2018.10.25-21.04.00:523][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.04.00:523][231]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.10.25-21.04.00:523][231]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.10.25-21.04.02:787][309]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.02:990][316]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.03:388][330]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.03:758][343]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.03:979][351]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.04:172][358]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.04:364][365]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.04:533][371]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.04:704][377]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.04:874][383]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:044][389]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:220][395]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:389][401]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:559][407]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:725][413]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.05:866][418]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:032][424]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:227][431]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:452][439]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:616][445]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:781][451]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.06:949][457]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.07:113][463]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.07:284][469]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.07:445][475]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.09:288][547]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.09:486][555]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.09:659][562]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.35:781][587]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.36:173][601]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.37:445][647]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.38:166][674]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.39:622][732]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.41:499][810]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.41:758][821]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.41:965][830]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.42:127][837]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.42:286][844]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.42:473][852]LogBlueprintUserMessages: [BPSurvivingLifeCharacter_C_0] Hello
+[2018.10.25-21.04.43:064][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.04.43:101][878]LogSlate: Window 'SurvivingLife Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.25-21.04.43:152][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.10.25-21.05.03:640][ 55]LogUObjectBase: Warning: Object is not registered
+[2018.10.25-21.05.03:642][ 55]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: 
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: Stack: 
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009B45B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009B1BAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009B1CECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x0000000091753DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x0000000094D9B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x0000000092A0C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000928977AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009289AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000929D6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009BF76057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009BF7BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009C1AC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009BFD0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009BFA8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x000000009BF9B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000A62FE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000A62F1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000A630052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000A62ED679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000CBF66CC1 USER32.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000CBF66693 USER32.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000A6301666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000BA275475 UE4Editor.exe!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000BA286BD0 UE4Editor.exe!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000BA286C4A UE4Editor.exe!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000BA294177 UE4Editor.exe!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000BA295B87 UE4Editor.exe!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000CC0F3034 KERNEL32.DLL!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: [Callstack] 0x00000000CCEB1461 ntdll.dll!UnknownFunction []
+[2018.10.25-21.05.03:643][ 55]LogOutputDevice: Error: 
+[2018.10.25-21.05.03:644][ 55]LogStats:                SubmitErrorReport -  0.000 s
