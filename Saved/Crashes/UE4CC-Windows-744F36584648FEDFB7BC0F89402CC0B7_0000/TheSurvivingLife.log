@@ -1,0 +1,565 @@
+﻿Log file open, 12/05/18 01:12:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSurvivingLife
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(16051139) SRandInit(16051139).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205174
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.860s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SP4B9R1 (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.013s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.05-04.12.28:131][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-04.12.28:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.05-04.12.28:207][  0]LogInit: Computer: DESKTOP-SP4B9R1
+[2018.12.05-04.12.28:207][  0]LogInit: User: FelipeDelgado
+[2018.12.05-04.12.28:207][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.05-04.12.28:207][  0]LogInit: High frequency timer resolution =2.340364 MHz
+[2018.12.05-04.12.28:207][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.05-04.12.28:207][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.05-04.12.28:207][  0]LogMemory: Process Physical Memory: 272.55 MB used, 272.55 MB peak
+[2018.12.05-04.12.28:207][  0]LogMemory: Process Virtual Memory: 265.88 MB used, 265.88 MB peak
+[2018.12.05-04.12.28:207][  0]LogMemory: Physical Memory: 3566.20 MB used,  4525.18 MB free, 8091.37 MB total
+[2018.12.05-04.12.28:207][  0]LogMemory: Virtual Memory: 4778.17 MB used,  4525.18 MB free, 134217728.00 MB total
+[2018.12.05-04.12.28:243][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2018.12.05-04.12.28:243][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2018.12.05-04.12.28:347][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.05-04.12.29:006][  0]LogStreaming: Display: Took  0.762s to EndInitTextLocalization.
+[2018.12.05-04.12.29:006][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.05-04.12.29:178][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.05-04.12.29:178][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.05-04.12.31:926][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.05-04.12.32:034][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.12.05-04.12.32:034][  0]LogD3D11RHI:       2010/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.05-04.12.32:042][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.12.05-04.12.32:042][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.05-04.12.32:044][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.05-04.12.32:045][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.05-04.12.32:045][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.05-04.12.32:078][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.05-04.12.32:078][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.05-04.12.32:078][  0]LogWindows: EnumDisplayDevices:
+[2018.12.05-04.12.32:079][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.12.05-04.12.32:079][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.12.05-04.12.32:079][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.12.05-04.12.32:080][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.05-04.12.32:080][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.12.05-04.12.32:080][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.05-04.12.32:080][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.05-04.12.32:080][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.12.05-04.12.32:142][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.05-04.12.32:142][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.05-04.12.32:143][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.05-04.12.32:167][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.05-04.12.32:168][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Intermediate/Shaders/WorkingDirectory/7812/).
+[2018.12.05-04.12.32:169][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe Delgado/AppData/Local/Temp/UnrealShaderWorkingDir/52F14F664181CFB9FA6558A413FEFB33/'.
+[2018.12.05-04.12.32:789][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.05-04.12.32:815][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.05-04.12.32:836][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.05-04.12.32:856][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.05-04.12.32:928][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.05-04.12.32:968][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.05-04.12.32:998][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.05-04.12.33:021][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.05-04.12.33:032][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.05-04.12.33:048][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.12.05-04.12.33:069][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.12.05-04.12.33:085][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.12.05-04.12.33:103][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.12.05-04.12.33:120][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.12.05-04.12.33:137][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.12.05-04.12.33:173][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.12.05-04.12.33:174][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.12.05-04.12.33:222][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-04.12.33:224][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.05-04.12.33:281][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-04.12.33:298][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-04.12.33:315][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.05-04.12.33:332][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.05-04.12.33:353][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.05-04.12.33:383][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.05-04.12.33:383][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.05-04.12.33:621][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.05-04.12.33:621][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.05-04.12.33:621][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.05-04.12.36:719][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: Loaded boot cache 0.43s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.05-04.12.37:146][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.05-04.12.37:166][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.05-04.12.37:179][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.05-04.12.37:179][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.05-04.12.37:179][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.05-04.12.37:192][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.05-04.12.37:194][  0]LogSlate: Using Freetype 2.6.0
+[2018.12.05-04.12.37:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-04.12.37:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-04.12.38:047][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.12.05-04.12.38:531][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-04.12.38:803][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.05-04.12.38:809][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.05-04.12.38:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.05-04.12.38:809][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.05-04.12.38:809][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.12.05-04.12.38:809][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.12.05-04.12.38:867][  0]LogNetVersion: TheSurvivingLife , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 672903486)
+[2018.12.05-04.12.39:608][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.165716 seconds
+[2018.12.05-04.12.39:617][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.12.05-04.12.39:617][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.12.05-04.12.39:617][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.05-04.12.51:772][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.05-04.12.51:821][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.05-04.12.52:572][  0]SourceControl: Source control is disabled
+[2018.12.05-04.12.52:572][  0]SourceControl: Source control is disabled
+[2018.12.05-04.12.52:612][  0]SourceControl: Source control is disabled
+[2018.12.05-04.12.52:653][  0]SourceControl: Source control is disabled
+[2018.12.05-04.12.53:640][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.05-04.12.53:960][  0]LogOcInput: OculusInput pre-init called
+[2018.12.05-04.12.54:218][  0]LogEngine: Initializing Engine...
+[2018.12.05-04.12.54:219][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.05-04.12.54:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-04.12.54:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-04.12.54:557][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.05-04.12.54:599][  0]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-04.12.54:619][  0]LogInit: FAudioDevice initialized.
+[2018.12.05-04.12.54:914][  0]LogDerivedDataCache: Saved boot cache 0.29s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.05-04.12.54:946][  0]LogInit: Texture streaming: Enabled
+[2018.12.05-04.12.54:983][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.05-04.12.55:005][  0]LogInit: Transaction tracking system initialized
+[2018.12.05-04.12.55:057][  0]BlueprintLog: New page: Editor Load
+[2018.12.05-04.12.55:258][  0]LocalizationService: Localization service is disabled
+[2018.12.05-04.12.55:461][  0]LogConsoleResponse: Display: 
+[2018.12.05-04.12.55:770][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.05-04.12.55:770][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.05-04.12.55:771][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.05-04.12.55:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-04.12.55:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-04.12.56:639][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/' took 0.10s
+[2018.12.05-04.12.56:861][  0]SourceControl: Source control is disabled
+[2018.12.05-04.12.56:862][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-04.12.56:863][  0]LightingResults: New page: Lighting Build
+[2018.12.05-04.12.56:868][  0]MapCheck: New page: Map Check
+[2018.12.05-04.12.56:868][  0]LightingResults: New page: Lighting Build
+[2018.12.05-04.12.57:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc63a1ac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-04.12.57:069][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc63a1ac0, Size=64
+[2018.12.05-04.12.57:069][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc63a19c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-04.12.57:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaa9bf3d0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-04.12.57:159][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdb66f0800, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.12.57:161][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc6405428, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-04.12.57:233][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc63291b0, Size=24, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.57:266][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc6328c40, Size=24, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.57:269][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc6404a18, Size=4, Default__BP_InventoryComponent_C Function /Game/Blueprints/Components/BP_InventoryComponent.BP_InventoryComponent_C:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.12.57:582][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc64046f8, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.12.05-04.12.57:789][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab1e7b00, Size=304, Default__WB_EquipmentSlot_C Function /Game/UI/Widgets/WB_EquipmentSlot.WB_EquipmentSlot_C:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-04.12.57:795][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaa8f2650, Size=16, Default__UI_EquipmentPanel_C Function /Game/UI/UI_EquipmentPanel.UI_EquipmentPanel_C:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-04.12.57:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdc6404168, Size=4, Default__UI_ICEPanelLayout_C Function /Game/UI/UI_ICEPanelLayout.UI_ICEPanelLayout_C:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-04.12.57:815][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab1e7600, Size=312, Default__WB_InventorySlot_C Function /Game/UI/Widgets/WB_InventorySlot.WB_InventorySlot_C:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-04.12.57:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdb6704240, Size=32, Default__UI_InventoryPanel_C Function /Game/UI/UI_InventoryPanel.UI_InventoryPanel_C:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-04.12.57:945][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab09e280, Size=32, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.57:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab19e888, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.12.57:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaa8eaf20, Size=24, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.57:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab19e880, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.12.57:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaa8e8928, Size=24, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.57:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaa8e8610, Size=24, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.57:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab09c1c0, Size=32, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaadc3c28, Size=24, Default__BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:067][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaada7ea0, Size=32, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaadc3ad8, Size=24, Default__BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:106][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaada7dc0, Size=32, Default__BP_WorldItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:218][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc63291b0, Size=24
+[2018.12.05-04.12.58:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee90af0, Size=24, Default__BP_InvenItem_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc6405428, Size=4
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedcb430, Size=4, Default__BP_EquipmentComponent_C Function /Engine/Transient.REINST_BP_EquipmentComponent_C_8:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab19e880, Size=4
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaa8e8928, Size=24
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedcb4b8, Size=4, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_Apple_C_9:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee90aa8, Size=24, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaadc3ad8, Size=24
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee909e8, Size=24, Default__BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaa8e8610, Size=24
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee90a18, Size=24, Default__BP_InvenItem_Empty_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaadc3c28, Size=24
+[2018.12.05-04.12.58:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee90988, Size=24, Default__BP_InvenItem_Knife_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc6404a18, Size=4
+[2018.12.05-04.12.58:220][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedcb438, Size=4, Default__BP_InventoryComponent_C Function /Engine/Transient.REINST_BP_InventoryComponent_C_13:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.12.58:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab09e280, Size=32
+[2018.12.05-04.12.58:220][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaed88180, Size=32, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:222][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc64046f8, Size=8
+[2018.12.05-04.12.58:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedcb3f8, Size=8, Default__WeatherManager_C Function /Engine/Transient.REINST_WeatherManager_C_16:ExecuteUbergraph_WeatherManager
+[2018.12.05-04.12.58:222][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab09c1c0, Size=32
+[2018.12.05-04.12.58:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaed0ff80, Size=32, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaada7dc0, Size=32
+[2018.12.05-04.12.58:223][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaed0ff40, Size=32, Default__BP_WorldItem_ArmorBase_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaada7ea0, Size=32
+[2018.12.05-04.12.58:223][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaed0fee0, Size=32, Default__BP_WorldItem_Knife_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:228][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdb66f0800, Size=952
+[2018.12.05-04.12.58:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaad7ec00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_20:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.12.58:228][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaa8f2650, Size=16
+[2018.12.05-04.12.58:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaee45920, Size=16, Default__UI_EquipmentPanel_C Function /Engine/Transient.REINST_UI_EquipmentPanel_C_1:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-04.12.58:229][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc6404168, Size=4
+[2018.12.05-04.12.58:230][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedcb3e8, Size=4, Default__UI_ICEPanelLayout_C Function /Engine/Transient.REINST_UI_ICEPanelLayout_C_3:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-04.12.58:230][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdb6704240, Size=32
+[2018.12.05-04.12.58:230][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaed0fc40, Size=32, Default__UI_InventoryPanel_C Function /Engine/Transient.REINST_UI_InventoryPanel_C_4:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-04.12.58:230][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab1e7b00, Size=304
+[2018.12.05-04.12.58:230][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab1e7b00, Size=304, Default__WB_EquipmentSlot_C Function /Engine/Transient.REINST_WB_EquipmentSlot_C_5:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-04.12.58:231][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab1e7600, Size=312
+[2018.12.05-04.12.58:231][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdab1e7600, Size=312, Default__WB_InventorySlot_C Function /Engine/Transient.REINST_WB_InventorySlot_C_6:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-04.12.58:335][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf9d0ea0, Size=16, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:336][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedc83f8, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-04.12.58:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedc8340, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.12.58:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf9d0da0, Size=16, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf9d0e40, Size=16, Default__BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf9d0e20, Size=16, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf9d0d10, Size=16, Default__BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.12.58:341][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaedc8198, Size=4, Default__BP_InventoryComponent_C Function /Game/Blueprints/Components/BP_InventoryComponent.BP_InventoryComponent_C:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.12.58:343][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf999750, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:347][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf85fbd8, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.12.05-04.12.58:348][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf999048, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:348][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf999030, Size=24, Default__BP_WorldItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:348][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf999018, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.12.58:357][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf869800, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.12.58:362][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf793630, Size=16, Default__UI_EquipmentPanel_C Function /Game/UI/UI_EquipmentPanel.UI_EquipmentPanel_C:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-04.12.58:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf85ee88, Size=4, Default__UI_ICEPanelLayout_C Function /Game/UI/UI_ICEPanelLayout.UI_ICEPanelLayout_C:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-04.12.58:370][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf7473d0, Size=24, Default__UI_InventoryPanel_C Function /Game/UI/UI_InventoryPanel.UI_InventoryPanel_C:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-04.12.58:371][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf92f740, Size=304, Default__WB_EquipmentSlot_C Function /Game/UI/Widgets/WB_EquipmentSlot.WB_EquipmentSlot_C:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-04.12.58:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdaf92f4c0, Size=312, Default__WB_InventorySlot_C Function /Game/UI/Widgets/WB_InventorySlot.WB_InventorySlot_C:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-04.13.00:263][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [45.648884ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.12.05-04.13.00:959][  0]LogAIModule: Creating AISystem for world GeneralMap
+[2018.12.05-04.13.02:813][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdc63a19c0, Size=64
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaad7ec00, Size=952
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedcb430, Size=4
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee90af0, Size=24
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee90a18, Size=24
+[2018.12.05-04.13.02:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedcb438, Size=4
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedcb3f8, Size=8
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab1e7b00, Size=304
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee45920, Size=16
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedcb3e8, Size=4
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdab1e7600, Size=312
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaed0fc40, Size=32
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaed88180, Size=32
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedcb4b8, Size=4
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee90aa8, Size=24
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaed0ff80, Size=32
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee90988, Size=24
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaed0fee0, Size=32
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaee909e8, Size=24
+[2018.12.05-04.13.02:852][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaed0ff40, Size=32
+[2018.12.05-04.13.02:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-04.13.02:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.841ms to complete.
+[2018.12.05-04.13.02:980][  0]LogFileHelpers: Loading map 'GeneralMap' took 6.119
+[2018.12.05-04.13.03:226][  0]LogCollectionManager: Loaded 0 collections in 0.004072 seconds
+[2018.12.05-04.13.03:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/Collections/' took 0.01s
+[2018.12.05-04.13.03:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Developers/FelipeDelgado/Collections/' took 0.01s
+[2018.12.05-04.13.03:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Collections/' took 0.01s
+[2018.12.05-04.13.03:288][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.05-04.13.03:303][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2452 classes and 558 folders.
+[2018.12.05-04.13.03:334][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.12.05-04.13.04:407][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.05-04.13.04:463][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.05-04.13.04:645][  0]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-04.13.04:648][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-04.13.04:715][  0]LogSlate: Took 0.059486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-04.13.04:890][  0]LogRenderer: Reallocating scene render targets to support 908x436 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-04.13.05:154][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-04.13.05:154][  0]LogLoad: (Engine Initialization) Total time: 45.10 seconds
+[2018.12.05-04.13.05:154][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.05-04.13.05:533][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.05-04.13.05:683][  0]LogSlate: Took 0.070810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-04.13.06:558][  3]LogSlate: Took 0.001128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-04.13.06:831][  4]LogAssetRegistry: Asset discovery search completed in 28.8072 seconds
+[2018.12.05-04.13.06:838][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.05-04.13.06:838][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2018.12.05-04.14.37:459][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-04.14.55:459][ 28]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.12.05-04.14.56:183][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdea4c0978, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.05-04.14.56:185][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdea4c0970, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.05-04.14.57:579][ 28]LogSlate: Took 0.012755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.05-04.15.00:331][102]LogSlate: Window 'BP_InvenItem' being destroyed
+[2018.12.05-04.15.33:493][529]LogSlate: Took 0.031829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.05-04.16.54:683][252]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.12.05-04.16.55:022][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf869800, Size=952
+[2018.12.05-04.16.55:022][252]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be03546400, Size=952, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_72:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.16.55:058][252]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be03545c00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.17.01:939][544]LogSavePackage: Save=540.29ms
+[2018.12.05-04.17.01:939][544]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/BPSurvivingLifeCharacter2CE9091A46ECF530D3C2709CEEE00726.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset'
+[2018.12.05-04.17.01:955][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Character/BPSurvivingLifeCharacter.uasset
+[2018.12.05-04.17.55:689][697]BlueprintLog: New page: Compile BP_InventoryComponent
+[2018.12.05-04.17.55:765][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedc8198, Size=4
+[2018.12.05-04.17.55:765][697]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ad7d0, Size=4, Default__BP_InventoryComponent_C Function /Engine/Transient.REINST_BP_InventoryComponent_C_84:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.17.55:778][697]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166acf78, Size=4, Default__BP_InventoryComponent_C Function /Game/Blueprints/Components/BP_InventoryComponent.BP_InventoryComponent_C:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.17.59:710][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166adf60, Size=4, Default__SKEL_BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.17.59:732][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae1c8, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.SKEL_BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.17.59:732][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae1a8, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.17.59:734][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166adeb8, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.17.59:738][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae208, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.17.59:741][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae000, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.00:820][975]BlueprintLog: New page: Compile BP_InvenItem
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166adf60, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166adf60, Size=4, Default__SKEL_BP_InvenItem_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_96:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166ae1c8, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166ae1a8, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae1a8, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_Apple_C_98:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae1c8, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_96:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166adeb8, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166adeb8, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_96:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166ae208, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae208, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_96:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166ae000, Size=4
+[2018.12.05-04.18.00:835][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166ae000, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_96:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:139][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf9d0ea0, Size=16
+[2018.12.05-04.18.01:139][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de400, Size=16, Default__BP_InvenItem_C Function /Engine/Transient.REINST_BP_InvenItem_C_121:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:139][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedc83f8, Size=4
+[2018.12.05-04.18.01:139][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166aee80, Size=4, Default__BP_EquipmentComponent_C Function /Engine/Transient.REINST_BP_EquipmentComponent_C_122:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaedc8340, Size=4
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf9d0da0, Size=16
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166aeec0, Size=4, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_Apple_C_123:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de410, Size=16, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_C_121:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf9d0e40, Size=16
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de430, Size=16, Default__BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_BP_InvenItem_C_121:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf9d0e20, Size=16
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de460, Size=16, Default__BP_InvenItem_Empty_C Function /Engine/Transient.REINST_BP_InvenItem_C_121:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf9d0d10, Size=16
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de470, Size=16, Default__BP_InvenItem_Knife_C Function /Engine/Transient.REINST_BP_InvenItem_C_121:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be166acf78, Size=4
+[2018.12.05-04.18.01:140][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be166acf78, Size=4, BP_InventoryComponent_C_0 Function /Engine/Transient.REINST_BP_InventoryComponent_C_127:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf999750, Size=24
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be16880a60, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_128:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf999048, Size=24
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be168816c0, Size=24, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_128:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf999030, Size=24
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be16880880, Size=24, Default__BP_WorldItem_ArmorBase_C Function /Engine/Transient.REINST_BP_WorldItem_C_128:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf999018, Size=24
+[2018.12.05-04.18.01:141][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be16880940, Size=24, Default__BP_WorldItem_Knife_C Function /Engine/Transient.REINST_BP_WorldItem_C_128:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-04.18.01:143][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be03545c00, Size=952
+[2018.12.05-04.18.01:143][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be0325ec00, Size=952, BPSurvivingLifeCharacter_C_50 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_132:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf793630, Size=16
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bdfc4de480, Size=16, Default__UI_EquipmentPanel_C Function /Engine/Transient.REINST_UI_EquipmentPanel_C_17:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf7473d0, Size=24
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be16880340, Size=24, Default__UI_InventoryPanel_C Function /Engine/Transient.REINST_UI_InventoryPanel_C_18:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf92f740, Size=304
+[2018.12.05-04.18.01:144][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be1247ca40, Size=304, Default__WB_EquipmentSlot_C Function /Engine/Transient.REINST_WB_EquipmentSlot_C_19:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-04.18.01:145][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bdaf92f4c0, Size=312
+[2018.12.05-04.18.01:145][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be1247c7c0, Size=312, Default__WB_InventorySlot_C Function /Engine/Transient.REINST_WB_InventorySlot_C_20:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-04.18.01:188][975]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:189][975]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-04.18.01:220][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be0abd2c00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-04.18.01:221][975]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-04.18.01:257][975]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
