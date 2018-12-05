@@ -1,0 +1,1116 @@
+﻿Log file open, 12/05/18 00:34:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSurvivingLife
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1015064837) SRandInit(-1015064837).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207470
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.944s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SP4B9R1 (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.05-03.34.30:353][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-03.34.30:354][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.05-03.34.30:617][  0]LogInit: Computer: DESKTOP-SP4B9R1
+[2018.12.05-03.34.30:617][  0]LogInit: User: FelipeDelgado
+[2018.12.05-03.34.30:617][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.05-03.34.30:617][  0]LogInit: High frequency timer resolution =2.340364 MHz
+[2018.12.05-03.34.30:617][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.05-03.34.30:618][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.05-03.34.30:618][  0]LogMemory: Process Physical Memory: 272.70 MB used, 272.70 MB peak
+[2018.12.05-03.34.30:618][  0]LogMemory: Process Virtual Memory: 261.94 MB used, 261.94 MB peak
+[2018.12.05-03.34.30:618][  0]LogMemory: Physical Memory: 4576.73 MB used,  3514.64 MB free, 8091.37 MB total
+[2018.12.05-03.34.30:618][  0]LogMemory: Virtual Memory: 4774.29 MB used,  3514.64 MB free, 134217728.00 MB total
+[2018.12.05-03.34.30:670][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2018.12.05-03.34.30:670][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2018.12.05-03.34.30:676][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.05-03.34.31:448][  0]LogStreaming: Display: Took  0.779s to EndInitTextLocalization.
+[2018.12.05-03.34.31:448][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.05-03.34.31:495][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.05-03.34.31:495][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.05-03.34.31:896][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.05-03.34.31:991][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.12.05-03.34.31:991][  0]LogD3D11RHI:       2010/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.05-03.34.31:999][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.12.05-03.34.31:999][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.05-03.34.32:002][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.05-03.34.32:002][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.05-03.34.32:002][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.05-03.34.32:039][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.05-03.34.32:039][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.05-03.34.32:039][  0]LogWindows: EnumDisplayDevices:
+[2018.12.05-03.34.32:040][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.12.05-03.34.32:040][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.12.05-03.34.32:040][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.12.05-03.34.32:041][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.05-03.34.32:041][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.12.05-03.34.32:041][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.05-03.34.32:041][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.05-03.34.32:041][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.12.05-03.34.32:106][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.05-03.34.32:106][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.05-03.34.32:106][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.05-03.34.32:131][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.05-03.34.32:133][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Intermediate/Shaders/WorkingDirectory/3504/).
+[2018.12.05-03.34.32:133][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe Delgado/AppData/Local/Temp/UnrealShaderWorkingDir/774E39E24B910908179C10A4C596B4FC/'.
+[2018.12.05-03.34.32:908][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.05-03.34.32:928][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.05-03.34.32:948][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.05-03.34.32:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.05-03.34.32:989][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.05-03.34.33:009][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.05-03.34.33:032][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.05-03.34.33:052][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.05-03.34.33:063][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.05-03.34.33:079][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.12.05-03.34.33:099][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.12.05-03.34.33:115][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.12.05-03.34.33:131][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.12.05-03.34.33:149][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.12.05-03.34.33:165][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.12.05-03.34.33:197][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.12.05-03.34.33:197][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.12.05-03.34.33:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-03.34.33:214][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.05-03.34.33:260][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-03.34.33:276][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-03.34.33:292][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.05-03.34.33:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.05-03.34.33:325][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.05-03.34.33:342][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.05-03.34.33:343][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.05-03.34.33:573][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.05-03.34.33:573][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.05-03.34.33:573][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.05-03.34.34:715][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.05-03.34.36:617][  0]LogDerivedDataCache: Loaded boot cache 1.90s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.05-03.34.36:617][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.12.05-03.34.36:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.05-03.34.36:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.05-03.34.36:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.05-03.34.36:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.05-03.34.36:646][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.05-03.34.36:661][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.05-03.34.36:661][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.05-03.34.36:661][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.05-03.34.36:677][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.05-03.34.36:677][  0]LogSlate: Using Freetype 2.6.0
+[2018.12.05-03.34.36:750][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-03.34.36:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-03.34.38:637][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.12.05-03.34.39:233][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-03.34.39:949][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.05-03.34.39:955][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.05-03.34.39:955][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.05-03.34.39:955][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.05-03.34.39:955][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.12.05-03.34.39:955][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.12.05-03.34.40:123][  0]LogNetVersion: TheSurvivingLife , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 672903486)
+[2018.12.05-03.34.43:538][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.175370 seconds
+[2018.12.05-03.34.43:545][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.12.05-03.34.43:545][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.12.05-03.34.43:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.05-03.35.07:857][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.05-03.35.07:908][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.05-03.35.08:712][  0]SourceControl: Source control is disabled
+[2018.12.05-03.35.08:712][  0]SourceControl: Source control is disabled
+[2018.12.05-03.35.08:750][  0]SourceControl: Source control is disabled
+[2018.12.05-03.35.08:787][  0]SourceControl: Source control is disabled
+[2018.12.05-03.35.09:887][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.05-03.35.10:204][  0]LogOcInput: OculusInput pre-init called
+[2018.12.05-03.35.10:444][  0]LogEngine: Initializing Engine...
+[2018.12.05-03.35.10:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.05-03.35.10:449][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-03.35.10:449][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-03.35.11:488][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.05-03.35.11:504][  0]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-03.35.11:526][  0]LogInit: FAudioDevice initialized.
+[2018.12.05-03.35.11:884][  0]LogDerivedDataCache: Saved boot cache 0.36s 74MB C:/Users/Felipe Delgado/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.05-03.35.11:916][  0]LogInit: Texture streaming: Enabled
+[2018.12.05-03.35.11:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.05-03.35.12:473][  0]LogInit: Transaction tracking system initialized
+[2018.12.05-03.35.12:536][  0]BlueprintLog: New page: Editor Load
+[2018.12.05-03.35.12:734][  0]LocalizationService: Localization service is disabled
+[2018.12.05-03.35.13:086][  0]LogConsoleResponse: Display: 
+[2018.12.05-03.35.14:457][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.05-03.35.14:457][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.05-03.35.14:457][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.05-03.35.14:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-03.35.14:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-03.35.14:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/' took 0.16s
+[2018.12.05-03.35.15:594][  0]SourceControl: Source control is disabled
+[2018.12.05-03.35.15:594][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-03.35.15:674][  0]LightingResults: New page: Lighting Build
+[2018.12.05-03.35.15:683][  0]MapCheck: New page: Map Check
+[2018.12.05-03.35.15:683][  0]LightingResults: New page: Lighting Build
+[2018.12.05-03.35.20:080][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.05-03.35.20:308][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-03.35.20:429][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-03.35.20:535][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.624ms to complete.
+[2018.12.05-03.35.20:535][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.941
+[2018.12.05-03.35.23:609][  0]LogCollectionManager: Loaded 0 collections in 0.006142 seconds
+[2018.12.05-03.35.24:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/Collections/' took 0.01s
+[2018.12.05-03.35.24:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Developers/FelipeDelgado/Collections/' took 0.01s
+[2018.12.05-03.35.24:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Collections/' took 0.01s
+[2018.12.05-03.35.24:518][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.05-03.35.24:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0646 seconds. Added 2452 classes and 558 folders.
+[2018.12.05-03.35.25:110][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.05-03.35.28:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.05-03.35.28:334][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.05-03.35.32:147][  0]LogSlate: Took 0.000602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-03.35.32:153][  0]LogSlate: Took 0.000557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-03.35.32:370][  0]LogSlate: Took 0.020222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-03.35.33:617][  0]LogRenderer: Reallocating scene render targets to support 908x436 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-03.35.36:324][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-03.35.36:324][  0]LogLoad: (Engine Initialization) Total time: 72.03 seconds
+[2018.12.05-03.35.36:324][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.05-03.35.36:873][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.05-03.35.37:359][  0]LogSlate: Took 0.017507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-03.35.37:419][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/' took 0.74s
+[2018.12.05-03.35.45:986][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-03.35.50:264][497]LogAssetRegistry: Asset discovery search completed in 71.6492 seconds
+[2018.12.05-03.35.50:318][497]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.05-03.35.50:318][497]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.12.05-03.35.50:403][498]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-03.35.59:033][  3]AssetReimport: New page: Outstanding source content changes 9:35:58 PM
+[2018.12.05-03.35.59:376][  5]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Assets/Materials/foliage_pack/grass.png]
+[2018.12.05-03.35.59:382][  5]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Assets/Materials/foliage_pack/grass.png)
+[2018.12.05-03.35.59:698][  5]LogEditorFactories: -- imported successfully
+[2018.12.05-03.35.59:801][  6]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Apple.png]
+[2018.12.05-03.35.59:801][  6]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Apple.png)
+[2018.12.05-03.35.59:843][  6]LogEditorFactories: -- imported successfully
+[2018.12.05-03.35.59:969][  7]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Hovered.png]
+[2018.12.05-03.35.59:969][  7]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Hovered.png)
+[2018.12.05-03.36.00:022][  7]LogEditorFactories: -- imported successfully
+[2018.12.05-03.36.00:094][  8]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Knife.png]
+[2018.12.05-03.36.00:094][  8]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Knife.png)
+[2018.12.05-03.36.00:133][  8]LogEditorFactories: -- imported successfully
+[2018.12.05-03.36.00:212][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Nothing.png]
+[2018.12.05-03.36.00:212][  9]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Nothing.png)
+[2018.12.05-03.36.00:287][  9]LogEditorFactories: -- imported successfully
+[2018.12.05-03.36.00:374][ 10]LogEditorFactories: Performing atomic reimport of [C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Unhovered.png]
+[2018.12.05-03.36.00:374][ 10]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Unhovered.png)
+[2018.12.05-03.36.00:414][ 10]LogEditorFactories: -- imported successfully
+[2018.12.05-03.36.00:995][ 11]LogSavePackage: Save=245.28ms
+[2018.12.05-03.36.00:995][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/grass7F75F2A04932BE79720CEA9CFEC9CB97.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Assets/Materials/foliage_pack/grass.uasset'
+[2018.12.05-03.36.01:014][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Assets/Materials/foliage_pack/grass.uasset
+[2018.12.05-03.36.01:062][ 11]LogSavePackage: Save=10.29ms
+[2018.12.05-03.36.01:062][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/Apple52267562400F0FE4C995C9A97B8F5CAA.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Apple.uasset'
+[2018.12.05-03.36.01:066][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Apple.uasset
+[2018.12.05-03.36.01:107][ 11]LogSavePackage: Save=8.54ms
+[2018.12.05-03.36.01:107][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/HoveredCD8D87CD42F603EEA7416F9682CB5581.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Hovered.uasset'
+[2018.12.05-03.36.01:112][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Hovered.uasset
+[2018.12.05-03.36.01:149][ 11]LogSavePackage: Save=8.84ms
+[2018.12.05-03.36.01:149][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/KnifeACF969004F36069A8A4F479F62583B46.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Knife.uasset'
+[2018.12.05-03.36.01:153][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Knife.uasset
+[2018.12.05-03.36.01:196][ 11]LogSavePackage: Save=9.30ms
+[2018.12.05-03.36.01:196][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/Nothing3EB9D037460236DD98242E8E4946E83E.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Nothing.uasset'
+[2018.12.05-03.36.01:200][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Nothing.uasset
+[2018.12.05-03.36.01:236][ 11]LogSavePackage: Save=8.35ms
+[2018.12.05-03.36.01:237][ 11]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/Unhovered0EA51EE24B35E477A6981EB53246FDED.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Unhovered.uasset'
+[2018.12.05-03.36.01:241][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Unhovered.uasset
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset grass from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Assets/Materials/foliage_pack/grass.png.
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset Apple from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Apple.png.
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset Hovered from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Hovered.png.
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset Knife from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Knife.png.
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset Nothing from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Nothing.png.
+[2018.12.05-03.36.04:283][184]AssetReimport: Reimported asset Unhovered from C:/Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/UI/Materials/Textures/Items/Unhovered.png.
+[2018.12.05-03.36.20:044][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc5891b300, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-03.36.20:192][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc5891b300, Size=64
+[2018.12.05-03.36.20:192][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0519a800, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-03.36.20:323][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d4c6840, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.12.05-03.36.20:447][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc74d2dc00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.36.20:451][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58ea8288, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-03.36.20:475][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d616410, Size=24, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.20:499][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d6165c0, Size=24, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.20:504][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58eaa718, Size=4, Default__BP_InventoryComponent_C Function /Game/Blueprints/Components/BP_InventoryComponent.BP_InventoryComponent_C:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-03.36.20:812][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58ea9498, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.12.05-03.36.20:911][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d566d40, Size=304, Default__WB_EquipmentSlot_C Function /Game/UI/Widgets/WB_EquipmentSlot.WB_EquipmentSlot_C:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-03.36.20:927][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc7b724d10, Size=16, Default__UI_EquipmentPanel_C Function /Game/UI/UI_EquipmentPanel.UI_EquipmentPanel_C:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-03.36.20:928][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58ea8220, Size=4, Default__UI_ICEPanelLayout_C Function /Game/UI/UI_ICEPanelLayout.UI_ICEPanelLayout_C:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-03.36.20:945][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d566980, Size=312, Default__WB_InventorySlot_C Function /Game/UI/Widgets/WB_InventorySlot.WB_InventorySlot_C:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-03.36.20:947][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4d452c00, Size=32, Default__UI_InventoryPanel_C Function /Game/UI/UI_InventoryPanel.UI_InventoryPanel_C:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-03.36.21:005][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c398e00, Size=32, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:010][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c383c28, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.36.21:010][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc7b5c9690, Size=24, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:017][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c383c20, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.36.21:017][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc7b5ca098, Size=24, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:017][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc7b5c8eb0, Size=24, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:058][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1482ed00, Size=32, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:080][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1481fa00, Size=24, Default__BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:084][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1482eb40, Size=32, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:089][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:096][115]LoadErrors: Failed to load /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase.BP_WorldItem_ArmorBase_C Referenced by DTItems
+[2018.12.05-03.36.21:096][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_InvenItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:096][115]LoadErrors: Error: /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem_ArmorBase : Can't find file for asset. /Game/Blueprints/Enums/EEquipType
+[2018.12.05-03.36.21:097][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:097][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_InvenItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:098][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:098][115]LoadErrors: Failed to load /Game/Blueprints/Enums/EEquipType.EEquipType Referenced by EquipmentType
+[2018.12.05-03.36.21:098][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:098][115]LoadErrors: Error: /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase : Can't find file for asset. /Game/Blueprints/Enums/EEquipType
+[2018.12.05-03.36.21:098][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1481f9b8, Size=24, Default__BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:098][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:098][115]LoadErrors: Failed to load /Game/Blueprints/Enums/EEquipType Referenced by DTItems
+[2018.12.05-03.36.21:098][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:099][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:099][115]LoadErrors: Failed to load /Game/Blueprints/Enums/EEquipType.EEquipType Referenced by DTItems
+[2018.12.05-03.36.21:099][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:099][115]LogClass: Warning: Failed to find enum 'EEquipType' when converting property 'EquipmentType' during property loading - setting to 0
+[2018.12.05-03.36.21:099][115]LogLinker: Warning: Can't find file '/Game/Blueprints/Enums/EEquipType'
+[2018.12.05-03.36.21:099][115]LoadErrors: Failed to load /Game/Blueprints/Enums/EEquipType.EEquipType Referenced by BP_InvenItem_ArmorBase
+[2018.12.05-03.36.21:099][115]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Enums/EEquipType' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/Inventory/BaseClasses/BP_WorldItem_ArmorBase.uasset.
+[2018.12.05-03.36.21:104][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1482e9e0, Size=32, Default__BP_WorldItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:497][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4d616410, Size=24
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da3d678, Size=24, Default__BP_InvenItem_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58ea8288, Size=4
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c380870, Size=4, Default__BP_EquipmentComponent_C Function /Engine/Transient.REINST_BP_EquipmentComponent_C_8:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c383c20, Size=4
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc7b5ca098, Size=24
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c383c20, Size=4, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_Apple_C_9:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.36.21:498][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da3d630, Size=24, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1481f9b8, Size=24
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da3d570, Size=24, Default__BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc7b5c8eb0, Size=24
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da3d5a0, Size=24, Default__BP_InvenItem_Empty_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1481fa00, Size=24
+[2018.12.05-03.36.21:499][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da3d510, Size=24, Default__BP_InvenItem_Knife_C Function /Engine/Transient.REINST_BP_InvenItem_C_7:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:500][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58eaa718, Size=4
+[2018.12.05-03.36.21:500][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c380868, Size=4, Default__BP_InventoryComponent_C Function /Engine/Transient.REINST_BP_InventoryComponent_C_13:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-03.36.21:500][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c398e00, Size=32
+[2018.12.05-03.36.21:500][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d906d80, Size=32, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:501][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58ea9498, Size=8
+[2018.12.05-03.36.21:501][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c380850, Size=8, Default__WeatherManager_C Function /Engine/Transient.REINST_WeatherManager_C_16:ExecuteUbergraph_WeatherManager
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1482ed00, Size=32
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d906c20, Size=32, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1482e9e0, Size=32
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d906be0, Size=32, Default__BP_WorldItem_ArmorBase_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1482eb40, Size=32
+[2018.12.05-03.36.21:518][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d906b80, Size=32, Default__BP_WorldItem_Knife_C Function /Engine/Transient.REINST_BP_WorldItem_C_14:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:520][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc74d2dc00, Size=952
+[2018.12.05-03.36.21:520][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da6f000, Size=952, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_20:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.36.21:520][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc7b724d10, Size=16
+[2018.12.05-03.36.21:520][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc147641e0, Size=16, Default__UI_EquipmentPanel_C Function /Engine/Transient.REINST_UI_EquipmentPanel_C_1:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-03.36.21:521][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58ea8220, Size=4
+[2018.12.05-03.36.21:521][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c380840, Size=4, Default__UI_ICEPanelLayout_C Function /Engine/Transient.REINST_UI_ICEPanelLayout_C_3:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-03.36.21:521][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4d452c00, Size=32
+[2018.12.05-03.36.21:521][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d9068e0, Size=32, Default__UI_InventoryPanel_C Function /Engine/Transient.REINST_UI_InventoryPanel_C_4:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-03.36.21:522][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4d566d40, Size=304
+[2018.12.05-03.36.21:522][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da46ac0, Size=304, Default__WB_EquipmentSlot_C Function /Engine/Transient.REINST_WB_EquipmentSlot_C_5:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-03.36.21:522][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4d566980, Size=312
+[2018.12.05-03.36.21:522][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0da46980, Size=312, Default__WB_InventorySlot_C Function /Engine/Transient.REINST_WB_InventorySlot_C_6:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-03.36.21:656][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'ICE_Menu' for  InputAction ICE_Menu
+[2018.12.05-03.36.21:657][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2018.12.05-03.36.21:659][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.12.05-03.36.21:660][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.12.05-03.36.21:660][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] Input Axis Event references unknown Axis 'MoveSideWays' for  InputAxis MoveSideWays
+[2018.12.05-03.36.21:661][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.12.05-03.36.21:761][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2f3d0, Size=16, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:770][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d7b97d0, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-03.36.21:771][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d7b9718, Size=4, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.36.21:771][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2f2d0, Size=16, Default__BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:771][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2f370, Size=16, Default__BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:771][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2f350, Size=16, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:772][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2f240, Size=16, Default__BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.36.21:775][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d7b9570, Size=4, Default__BP_InventoryComponent_C Function /Game/Blueprints/Components/BP_InventoryComponent.BP_InventoryComponent_C:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-03.36.21:776][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0cea1b58, Size=24, Default__BP_WorldItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:802][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d7bb498, Size=8, Default__WeatherManager_C Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:ExecuteUbergraph_WeatherManager
+[2018.12.05-03.36.21:803][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0cea1450, Size=24, Default__BP_WorldItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:803][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0cea1438, Size=24, Default__BP_WorldItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:803][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0cea1420, Size=24, Default__BP_WorldItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_WorldItem.BP_WorldItem_C:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.36.21:812][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0cd89c00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.36.21:817][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ce2dbe0, Size=16, Default__UI_EquipmentPanel_C Function /Game/UI/UI_EquipmentPanel.UI_EquipmentPanel_C:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-03.36.21:836][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0d7b8310, Size=4, Default__UI_ICEPanelLayout_C Function /Game/UI/UI_ICEPanelLayout.UI_ICEPanelLayout_C:ExecuteUbergraph_UI_ICEPanelLayout
+[2018.12.05-03.36.21:837][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc14c3b790, Size=24, Default__UI_InventoryPanel_C Function /Game/UI/UI_InventoryPanel.UI_InventoryPanel_C:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-03.36.21:839][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ceed1c0, Size=304, Default__WB_EquipmentSlot_C Function /Game/UI/Widgets/WB_EquipmentSlot.WB_EquipmentSlot_C:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-03.36.21:840][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0ceecf40, Size=312, Default__WB_InventorySlot_C Function /Game/UI/Widgets/WB_InventorySlot.WB_InventorySlot_C:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-03.36.21:981][115]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] [0117.69] Compile of BPSurvivingLifeCharacter successful, but with 6 Warning(s) [in 752 ms] (/Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter)
+[2018.12.05-03.36.22:023][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:023][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset.
+[2018.12.05-03.36.22:023][115]LoadErrors: Error: /Game/Blueprints/SurvivingLifeGameMode : Can't find file for asset. /Script/SurvivingLife
+[2018.12.05-03.36.22:023][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:023][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset.
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset.
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset.
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:024][115]LoadErrors: Error: /Game/Maps/GeneralMap : Can't find file for asset. /Script/SurvivingLife
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:024][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Unable to load Default__SurvivingLifeGameMode_C with outer Package /Game/Blueprints/SurvivingLifeGameMode because its class does not exist
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:025][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap.
+[2018.12.05-03.36.22:026][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.22:228][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.22:228][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading NULL.
+[2018.12.05-03.36.22:228][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.23:480][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.23:480][115]LoadErrors: Failed to load /Script/SurvivingLife.SurvivingLifeGameMode Referenced by SurvivingLifeGameMode
+[2018.12.05-03.36.23:481][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading NULL.
+[2018.12.05-03.36.23:482][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.23:483][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading NULL.
+[2018.12.05-03.36.23:483][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.23:485][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.23:485][115]LoadErrors: Failed to load /Script/SurvivingLife.SurvivingLifeGameMode Referenced by PackageMetaData
+[2018.12.05-03.36.23:485][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading NULL.
+[2018.12.05-03.36.23:485][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.23:763][115]LogLinker: Warning: Can't find file '/Script/SurvivingLife'
+[2018.12.05-03.36.23:764][115]LoadErrors: Failed to load /Script/SurvivingLife.SurvivingLifeGameMode Referenced by WorldSettings
+[2018.12.05-03.36.23:764][115]LogLinker: Warning: Can't find file for asset '/Script/SurvivingLife' while loading NULL.
+[2018.12.05-03.36.23:765][115]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.28:361][115]LogSkeletalMesh: Skeletal Mesh found in DDC [34.197243ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.12.05-03.36.28:792][115]LogAIModule: Creating AISystem for world GeneralMap
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da3d678, Size=24
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c380870, Size=4
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da6f000, Size=952
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0519a800, Size=64
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da3d5a0, Size=24
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c380868, Size=4
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c380850, Size=8
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da46ac0, Size=304
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc147641e0, Size=16
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c380840, Size=4
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da46980, Size=312
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d9068e0, Size=32
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d906d80, Size=32
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0c383c20, Size=4
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da3d630, Size=24
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d906c20, Size=32
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da3d510, Size=24
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d906b80, Size=32
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0da3d570, Size=24
+[2018.12.05-03.36.29:067][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d906be0, Size=32
+[2018.12.05-03.36.29:077][115]Cmd: MAP LOAD FILE="../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Maps/GeneralMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-03.36.29:077][115]LightingResults: New page: Lighting Build
+[2018.12.05-03.36.29:078][115]LoadErrors: New page: Loading map: GeneralMap.umap
+[2018.12.05-03.36.29:109][115]MapCheck: New page: Map Check
+[2018.12.05-03.36.29:109][115]LightingResults: New page: Lighting Build
+[2018.12.05-03.36.34:930][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-03.36.35:063][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-03.36.35:180][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.94ms to complete.
+[2018.12.05-03.36.35:181][115]LogFileHelpers: Loading map 'GeneralMap' took 6.110
+[2018.12.05-03.36.35:193][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UberGraphFrame': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:193][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_SurvivingLifeGameMode': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:193][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'EntryPoint': Function /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:ExecuteUbergraph_SurvivingLifeGameMode
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReceiveBeginPlay': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C
+[2018.12.05-03.36.35:194][115]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C:SimpleConstructionScript_0
+[2018.12.05-03.36.39:874][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-03.36.39:950][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-03.36.39:991][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.36.40:018][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-03.36.40:079][336]PIE: New page: PIE session: GeneralMap (Dec 4, 2018, 9:36:40 PM)
+[2018.12.05-03.36.40:093][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.12.05-03.36.40:224][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129494s)
+[2018.12.05-03.36.40:231][336]LogAIModule: Creating AISystem for world GeneralMap
+[2018.12.05-03.36.40:232][336]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.12.05-03.36.40:232][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.138337s)
+[2018.12.05-03.36.40:281][336]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-03.36.40:293][336]LogInit: FAudioDevice initialized.
+[2018.12.05-03.36.40:350][336]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-03.36.40:537][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.12.05-00.36.40
+[2018.12.05-03.36.40:610][336]LogWorld: Bringing up level for play took: 0.094775
+[2018.12.05-03.36.40:805][336]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.12.05-03.36.40:925][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 1.805
+[2018.12.05-03.36.40:926][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.36.40:995][336]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:006][336]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:355][337]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:356][337]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:398][338]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:398][338]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:415][339]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:416][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:433][340]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:433][340]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:450][341]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:450][341]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:467][342]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:467][342]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:483][343]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:484][343]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:502][344]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:502][344]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:519][345]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:520][345]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:536][346]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:537][346]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:553][347]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:555][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:569][348]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:569][348]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:586][349]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:586][349]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:604][350]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:604][350]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:620][351]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:620][351]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:637][352]LogScript: Warning: Accessed None trying to read property CharacterHudRef
+	WeatherManager_C /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap:PersistentLevel.WeatherManager_10
+	Function /Game/Blueprints/Weather/WeatherManager.WeatherManager_C:UpdateCurrentTime:0041
+[2018.12.05-03.36.41:637][352]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:654][353]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:670][354]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:688][355]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:704][356]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:721][357]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:737][358]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:754][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:770][360]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:787][361]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:804][362]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:821][363]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:837][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:854][365]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:870][366]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:887][367]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:904][368]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:920][369]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:937][370]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:954][371]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:970][372]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.41:987][373]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:003][374]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:020][375]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:037][376]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:053][377]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:070][378]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:087][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:103][380]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:120][381]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:137][382]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:153][383]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:170][384]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:187][385]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:203][386]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:220][387]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:237][388]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:253][389]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:270][390]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:287][391]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:304][392]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:320][393]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:337][394]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:354][395]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:370][396]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:387][397]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:404][398]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:420][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:437][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:454][401]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:470][402]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:487][403]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:504][404]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:520][405]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:537][406]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:554][407]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:571][408]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:587][409]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:604][410]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:621][411]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:637][412]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:654][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:670][414]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:687][415]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:704][416]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:720][417]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:737][418]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:754][419]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:771][420]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:827][421]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:859][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:876][423]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:892][424]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:909][425]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:927][426]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:943][427]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:961][428]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:977][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.42:994][430]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:011][431]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:027][432]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:043][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:060][434]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:077][435]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:094][436]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:112][437]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:127][438]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:144][439]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:161][440]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:177][441]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:195][442]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:213][443]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:231][444]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:249][445]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:267][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:284][447]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:302][448]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:319][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:338][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:355][451]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:372][452]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:390][453]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:406][454]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:424][455]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:441][456]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:458][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:475][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:493][459]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:510][460]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:527][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:544][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:561][463]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:579][464]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:596][465]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:613][466]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:629][467]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:647][468]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:664][469]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:681][470]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:698][471]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:715][472]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:733][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:750][474]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:767][475]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:784][476]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:801][477]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:818][478]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:836][479]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:852][480]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:871][481]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:888][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:904][483]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:922][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:939][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:956][486]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:974][487]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.43:992][488]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:009][489]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:026][490]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:044][491]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:061][492]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:079][493]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:096][494]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:114][495]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:131][496]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:149][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:167][498]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.36.44:168][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.36.44:242][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.36.48:576][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-03.36.59:665][284]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-03.36.59:691][284]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-03.37.28:986][804]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.05-03.37.55:975][ 61]LogSlate: Window 'Message' being destroyed
+[2018.12.05-03.38.27:038][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc14ac9948, Size=8, Default__DatasmithLayer_C Function /DatasmithContent/Datasmith/DatasmithLayer.DatasmithLayer_C:ExecuteUbergraph_DatasmithLayer
+[2018.12.05-03.38.27:042][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc14ac9948, Size=8
+[2018.12.05-03.38.27:042][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc14ac9948, Size=8, Default__DatasmithLayer_C Function /Engine/Transient.REINST_DatasmithLayer_C_45:ExecuteUbergraph_DatasmithLayer
+[2018.12.05-03.38.27:048][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc14ac9750, Size=8, Default__DatasmithLayer_C Function /DatasmithContent/Datasmith/DatasmithLayer.DatasmithLayer_C:ExecuteUbergraph_DatasmithLayer
+[2018.12.05-03.38.35:710][231]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.05-03.38.38:872][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc14ac9948, Size=8
+[2018.12.05-03.38.41:742][309]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0036 seconds. Added 116 classes and 0 folders.
+[2018.12.05-03.38.42:474][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc8893b2d8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.05-03.38.42:475][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc8893b2d0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.05-03.38.46:851][394]LogSlate: Window 'SurvivingLifeGameMode2*' being destroyed
+[2018.12.05-03.38.48:926][464]LogSlate: Window 'SurvivingLifeGameMode2*' being destroyed
+[2018.12.05-03.38.48:931][464]LogSlate: Window 'SurvivingLifeGameMode2*' being destroyed
+[2018.12.05-03.38.53:132][644]LogMetaData: Removing '/Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/SurvivingLifeGameMode2.PackageMetaData'
+[2018.12.05-03.38.53:132][644]LogMetaData: Removing '/Game/Blueprints/SurvivingLifeGameMode.SKEL_SurvivingLifeGameMode_C' ref from Metadata '/Game/Blueprints/SurvivingLifeGameMode2.PackageMetaData'
+[2018.12.05-03.38.53:132][644]LogMetaData: Removing '/Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode_C' ref from Metadata '/Game/Blueprints/SurvivingLifeGameMode2.PackageMetaData'
+[2018.12.05-03.38.53:132][644]LogMetaData: Removing '/Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/SurvivingLifeGameMode2.PackageMetaData'
+[2018.12.05-03.38.53:132][644]LogMetaData: Removing '/Game/Blueprints/SurvivingLifeGameMode.SurvivingLifeGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/SurvivingLifeGameMode2.PackageMetaData'
+[2018.12.05-03.38.53:214][644]LogSavePackage: Save=12.78ms
+[2018.12.05-03.38.53:214][644]LogSavePackage: Moving '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Saved/SurvivingLifeGameMode703B92FB4CCDF3FDFAFA93B43487C720.tmp' to '../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset'
+[2018.12.05-03.38.53:218][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Felipe Delgado/Documents/Unreal Projects/TheSurvivingLife/Content/Blueprints/SurvivingLifeGameMode.uasset
+[2018.12.05-03.39.01:670][846]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.05-03.39.02:608][854]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheSurvivingLife
+[2018.12.05-03.39.02:608][854]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.12.05-03.39.02:608][854]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.12.05-03.39.02:608][854]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.12.05-03.39.02:643][857]LogTemp: BranchPath = DESKTOP-SP4B9R1/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-SP4B9R1/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.12.05-03.39.03:295][890]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Felipe Delgado\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.05-03.39.51:288][698]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.05-03.40.22:688][545]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.05-03.40.51:619][137]LogSlate: Took 0.018186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.05-03.40.54:360][214]LogSlate: Took 0.025313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.05-03.40.55:274][261]LogSlate: Window 'BPSurvivingLifeCharacter' being destroyed
+[2018.12.05-03.40.57:432][337]LogSlate: Window 'BPSurvivingLifeCharacter' being destroyed
+[2018.12.05-03.42.23:422][285]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.12.05-03.42.23:766][285]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0cd89c00, Size=952
+[2018.12.05-03.42.23:766][285]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc0c462000, Size=952, Default__BPSurvivingLifeCharacter_C Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_79:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.42.23:776][285]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'ICE_Menu' for  InputAction ICE_Menu
+[2018.12.05-03.42.23:776][285]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2018.12.05-03.42.23:777][285]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.12.05-03.42.23:778][285]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.12.05-03.42.23:804][285]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7d5dc00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.42.24:400][285]LogBlueprint: Warning: [Compiler BPSurvivingLifeCharacter] [0480.11] Compile of BPSurvivingLifeCharacter successful, but with 4 Warning(s) [in 977 ms] (/Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter)
+[2018.12.05-03.43.59:098][858]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.12.05-03.43.59:324][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dca7d5dc00, Size=952
+[2018.12.05-03.43.59:324][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc51219800, Size=952, BPSurvivingLifeCharacter_C_27 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_97:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.43.59:360][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc51218c00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.43.59:743][858]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.12.05-03.43.59:965][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc51218c00, Size=952
+[2018.12.05-03.43.59:965][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca654cc00, Size=952, BPSurvivingLifeCharacter_C_53 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_115:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.44.00:002][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc5cb33c00, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.44.00:297][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc51219800, Size=952
+[2018.12.05-03.44.00:347][858]BlueprintLog: New page: Compile BPSurvivingLifeCharacter
+[2018.12.05-03.44.00:572][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc5cb33c00, Size=952
+[2018.12.05-03.44.00:572][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc5d5d5400, Size=952, BPSurvivingLifeCharacter_C_79 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_133:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.44.00:608][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc8619a000, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.44.00:902][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dca654cc00, Size=952
+[2018.12.05-03.44.03:810][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-03.44.03:855][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.44.03:865][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-03.44.03:865][999]PIE: New page: PIE session: GeneralMap (Dec 4, 2018, 9:44:03 PM)
+[2018.12.05-03.44.03:865][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GeneralMap
+[2018.12.05-03.44.03:910][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043703s)
+[2018.12.05-03.44.03:911][999]LogAIModule: Creating AISystem for world GeneralMap
+[2018.12.05-03.44.03:911][999]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2018.12.05-03.44.03:911][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GeneralMap.GeneralMap to /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap (0.045064s)
+[2018.12.05-03.44.03:935][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc5d5d5400, Size=952
+[2018.12.05-03.44.03:944][999]LogInit: XAudio2 using 'Altavoces (Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-03.44.03:956][999]LogInit: FAudioDevice initialized.
+[2018.12.05-03.44.03:995][999]LogLoad: Game class is 'SurvivingLifeGameMode_C'
+[2018.12.05-03.44.03:999][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GeneralMap.GeneralMap up for play (max tick rate 60) at 2018.12.05-00.44.03
+[2018.12.05-03.44.04:000][999]LogWorld: Bringing up level for play took: 0.004536
+[2018.12.05-03.44.04:330][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GeneralMap 1.211
+[2018.12.05-03.44.04:331][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.44.04:339][999]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CharacterHudRef from function: 'UpdateCurrentTime' from node: Set Time in graph: UpdateCurrentTime in object: WeatherManager with description: Accessed None trying to read property CharacterHudRef
+[2018.12.05-03.44.18:436][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.44.18:484][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap' with GeneratedClass '/Game/Maps/GeneralMap.GeneralMap_C' with ClassGeneratedBy '/Game/Maps/GeneralMap.GeneralMap:PersistentLevel.GeneralMap'
+[2018.12.05-03.44.20:977][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-03.44.23:554][987]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-03.44.23:579][987]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-03.45.28:943][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0348, Size=4, Default__SKEL_BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.28:953][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02d0, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.SKEL_BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.45.28:953][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0360, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.28:975][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02c0, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.28:988][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0268, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.29:007][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0270, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.45:540][493]LogSlate: Took 0.017806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.05-03.45.48:747][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0348, Size=4
+[2018.12.05-03.45.48:747][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0348, Size=4, Default__SKEL_BP_InvenItem_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_145:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:750][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a1550, Size=4, Default__SKEL_BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a02d0, Size=4
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0360, Size=4
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0360, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_Apple_C_147:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02d0, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_145:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0e88, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/Items/BP_InvenItem_Apple.SKEL_BP_InvenItem_Apple_C:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.45.48:751][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0ef0, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:752][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a02c0, Size=4
+[2018.12.05-03.45.48:752][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02c0, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_145:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:752][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02d8, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:753][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0268, Size=4
+[2018.12.05-03.45.48:753][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0268, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_145:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:754][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0998, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:755][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0270, Size=4
+[2018.12.05-03.45.48:755][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0270, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_145:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.48:755][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a2590, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.SKEL_BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.50:533][790]BlueprintLog: New page: Compile BP_InvenItem
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a1550, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a1550, Size=4, Default__SKEL_BP_InvenItem_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_155:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0e88, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0ef0, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0ef0, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_Apple_C_157:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0e88, Size=4, Default__SKEL_BP_InvenItem_Apple_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_155:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a02d8, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a02d8, Size=4, Default__SKEL_BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_155:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a0998, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a0998, Size=4, Default__SKEL_BP_InvenItem_Empty_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_155:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc952a2590, Size=4
+[2018.12.05-03.45.50:546][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a2590, Size=4, Default__SKEL_BP_InvenItem_Knife_C Function /Engine/Transient.REINST_SKEL_BP_InvenItem_C_155:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:011][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2f3d0, Size=16
+[2018.12.05-03.45.51:011][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c98d70, Size=16, Default__BP_InvenItem_C Function /Engine/Transient.REINST_BP_InvenItem_C_180:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:011][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d7b97d0, Size=4
+[2018.12.05-03.45.51:011][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a1d98, Size=4, Default__BP_EquipmentComponent_C Function /Engine/Transient.REINST_BP_EquipmentComponent_C_181:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d7b9718, Size=4
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2f2d0, Size=16
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a1498, Size=4, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_Apple_C_182:ExecuteUbergraph_BP_InvenItem_Apple
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c98d60, Size=16, Default__BP_InvenItem_Apple_C Function /Engine/Transient.REINST_BP_InvenItem_C_180:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2f370, Size=16
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c9a090, Size=16, Default__BP_InvenItem_ArmorBase_C Function /Engine/Transient.REINST_BP_InvenItem_C_180:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2f350, Size=16
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c98d20, Size=16, Default__BP_InvenItem_Empty_C Function /Engine/Transient.REINST_BP_InvenItem_C_180:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2f240, Size=16
+[2018.12.05-03.45.51:012][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c98c90, Size=16, Default__BP_InvenItem_Knife_C Function /Engine/Transient.REINST_BP_InvenItem_C_180:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d7b9570, Size=4
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc952a1840, Size=4, Default__BP_InventoryComponent_C Function /Engine/Transient.REINST_BP_InventoryComponent_C_186:ExecuteUbergraph_BP_InventoryComponent
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0cea1b58, Size=24
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1642e140, Size=24, Default__BP_WorldItem_C Function /Engine/Transient.REINST_BP_WorldItem_C_187:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0cea1450, Size=24
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1642f928, Size=24, Default__BP_WorldItem_Apple_C Function /Engine/Transient.REINST_BP_WorldItem_C_187:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0cea1438, Size=24
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1642fcd0, Size=24, Default__BP_WorldItem_ArmorBase_C Function /Engine/Transient.REINST_BP_WorldItem_C_187:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0cea1420, Size=24
+[2018.12.05-03.45.51:013][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1642f8f8, Size=24, Default__BP_WorldItem_Knife_C Function /Engine/Transient.REINST_BP_WorldItem_C_187:ExecuteUbergraph_BP_WorldItem
+[2018.12.05-03.45.51:015][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc8619a000, Size=952
+[2018.12.05-03.45.51:015][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcaebf1400, Size=952, BPSurvivingLifeCharacter_C_105 Function /Engine/Transient.REINST_BPSurvivingLifeCharacter_C_191:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.45.51:015][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ce2dbe0, Size=16
+[2018.12.05-03.45.51:015][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dca7c98cb0, Size=16, Default__UI_EquipmentPanel_C Function /Engine/Transient.REINST_UI_EquipmentPanel_C_31:ExecuteUbergraph_UI_EquipmentPanel
+[2018.12.05-03.45.51:016][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc14c3b790, Size=24
+[2018.12.05-03.45.51:016][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1642f538, Size=24, Default__UI_InventoryPanel_C Function /Engine/Transient.REINST_UI_InventoryPanel_C_32:ExecuteUbergraph_UI_InventoryPanel
+[2018.12.05-03.45.51:016][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ceed1c0, Size=304
+[2018.12.05-03.45.51:016][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc9dad5800, Size=304, Default__WB_EquipmentSlot_C Function /Engine/Transient.REINST_WB_EquipmentSlot_C_33:ExecuteUbergraph_WB_EquipmentSlot
+[2018.12.05-03.45.51:017][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0ceecf40, Size=312
+[2018.12.05-03.45.51:017][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc9dad7740, Size=312, Default__WB_InventorySlot_C Function /Engine/Transient.REINST_WB_InventorySlot_C_34:ExecuteUbergraph_WB_InventorySlot
+[2018.12.05-03.45.51:031][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_InvenItem_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:031][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_InvenItem_Empty_C Function /Game/Blueprints/Inventory/BaseClasses/BP_InvenItem.BP_InvenItem_C:ExecuteUbergraph_BP_InvenItem
+[2018.12.05-03.45.51:038][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc8619a400, Size=952, Default__BPSurvivingLifeCharacter_C Function /Game/Blueprints/Character/BPSurvivingLifeCharacter.BPSurvivingLifeCharacter_C:ExecuteUbergraph_BPSurvivingLifeCharacter
+[2018.12.05-03.45.51:039][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000000000000, Size=4, Default__BP_EquipmentComponent_C Function /Game/Blueprints/Components/BP_EquipmentComponent.BP_EquipmentComponent_C:ExecuteUbergraph_BP_EquipmentComponent
+[2018.12.05-03.45.51:074][790]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2018.12.05-03.46.02:808][790]LogWindows: Error: === Critical error: ===
+[2018.12.05-03.46.02:808][790]LogWindows: Error: 
+[2018.12.05-03.46.02:809][790]LogWindows: Error: Assertion failed: !InClass || (InClass->ClassWithin && InClass->ClassConstructor) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2268] 
+[2018.12.05-03.46.02:809][790]LogWindows: Error: 
+[2018.12.05-03.46.02:809][790]LogWindows: Error: 
+[2018.12.05-03.46.02:809][790]LogWindows: Error: 
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x000000005C4EA388 KERNELBASE.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000300C7884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000018C56D9B UE4Editor-Core.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000018B91949 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196DBEE9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000019455457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000019571D72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195720D0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B56D5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195659BE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x000000001957E1D1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196C2E8D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B79BD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B62CF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B7BFB UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B62CF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B6112 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195701D1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B56F3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195659BE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x000000001957E1D1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196C2E8D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B79BD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B62CF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B7BFB UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B62CF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B6112 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195701D1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195B56F3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000195659BE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x000000001957E1D1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196C2E8D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196C2544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196E44E8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196E3B13 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000196E5A26 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FFE30B03 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FFE6289B UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FFED7D3F UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FE8410EC UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FE8574B3 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FE82D056 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x00000000FE81A0F2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000016AAF4BF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.05-03.46.02:809][790]LogWindows: Error: [Callstack] 0x0000000016A50629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000038E72F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000016A50043 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000016A9FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000016AA4BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000184D687F UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000185CF8B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000185346B2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000018535BD9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000185B12F5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000001866B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000186919E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000184B485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000018487D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000001851F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x0000000018507D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000184FB3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000300BE69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000300B1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000300C052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000300AD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000005ECA6D41 USER32.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000005ECA6713 USER32.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000300C1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000B2FF5475 UE4Editor.exe!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000B3006BD0 UE4Editor.exe!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000B3006C4A UE4Editor.exe!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000B3014177 UE4Editor.exe!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x00000000B3015B87 UE4Editor.exe!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000005FB53034 KERNEL32.DLL!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000005FD61471 ntdll.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: [Callstack] 0x000000005FD61471 ntdll.dll!UnknownFunction []
+[2018.12.05-03.46.02:810][790]LogWindows: Error: 
+[2018.12.05-03.46.02:856][790]LogExit: Executing StaticShutdownAfterError
+[2018.12.05-03.46.02:878][790]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.12.05-03.46.02:904][790]Log file closed, 12/05/18 00:46:02
